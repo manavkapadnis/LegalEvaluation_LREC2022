@@ -1,0 +1,14 @@
+vehicle was loaded for transport 0 22 1 5
+found with a dead body in it 1 6 10 7
+sugar bags were missing 1 7 4 4
+stolen sugar was sold 1 12 1 4
+being kept in his godown 1 13 10 5
+calls interse between accused 1 14 6 4
+no evidence to substantiate that the applicant was conspirator in the crime 1 17 10 12
+involved in committing robbery and murder 1 19 4 6
+no recovery from him 1 20 0 4
+no calls between applicant and accused 1 20 6 6
+received of stolen property 2 2 4 4
+stolen sugar is unloaded in the premises of applicant 2 5 6 9
+conspiracy between the applicant and the other accused 2 7 2 8
+criminal antecedents against the applicant 2 17 8 5

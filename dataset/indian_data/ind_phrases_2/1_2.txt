@@ -1,0 +1,27 @@
+committing the murder 0 23 7 3
+assaulted with the help of knife 0 24 3 6
+offence under section 307 0 26 4 4
+section 302 of IPC 0 28 8 4
+convicted him to life imprisonment 0 30 10 5
+section 304 of IPC 1 0 7 4
+there are six eye-witnesses 1 2 10 4
+anger of the family members 1 3 13 5
+family of deceased 1 4 7 3
+dispute between deceased 1 12 10 3
+assault by the appellant on the deceased 1 18 11 7
+postmortem examination report 1 24 7 3
+we find four injuries 1 25 2 4
+three wounds 1 25 13 2
+stab injury 1 26 1 2
+contused abrasion on forehead 1 27 0 4
+wounds are on chest abdomen and forehead 1 27 6 7
+cause of death 1 29 3 3
+stab wound to valves and cartilages 1 29 14 6
+homicidal death 1 31 4 2
+knife as the weapon for causing all these injuries 2 0 10 9
+blood of deceased 2 24 9 3
+entire evidence 2 25 5 2
+motive for appellant to commit murder 3 25 6 6
+ran away after the assault 3 36 13 5
+intended to inflict some injury 4 20 6 5
+need to be compensated 5 8 12 4

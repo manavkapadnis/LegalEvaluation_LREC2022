@@ -1,0 +1,15 @@
+convicted for the offence 0 24 8 4
+punishable under section 380 of the indian penal code 0 25 1 9
+indian evidence act 1 12 7 3
+no eye witness to the incident 1 13 0 6
+arrested by police immediately after commission of crime 1 16 8 8
+found in possession of stolen articles 1 17 9 6
+committing theft in the night 2 2 6 5
+theft of gold ornaments 2 3 4 4
+one golden ring 2 4 8 3
+cash of Rs. 2500 2 5 1 4
+removed by the thief from his house 2 14 3 7
+complainant identified those articles 3 2 6 4
+accused could not give any explanation 3 3 1 6
+articles seized from his possession 3 21 11 5
+liable to fine 4 14 13 3

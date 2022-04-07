@@ -1,0 +1,11 @@
+prevention of corruption act 0 31 2 4
+not a public servant 0 31 10 4
+credit facility and loan 0 32 6 4
+by producing certain documents 0 32 14 4
+loans were advanced in favour of these two companies 1 0 11 9
+offence of cheating or forgery 1 10 2 5
+pertaining to some other land 1 17 0 5
+in some other village 1 17 5 4
+production of false reports 1 22 14 4
+showing a highly exorbitant valuation of two lands 1 23 0 7
+actual market value 1 25 1 3

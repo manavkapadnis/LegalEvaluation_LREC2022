@@ -1,0 +1,11 @@
+land revenue code 1 5 15 3
+found guilty of the theft of minor minerals/soil 1 7 0 8
+excavated from survey 1 7 8 3
+government land 1 8 8 2
+appellants are owners 1 18 7 3
+found that a JCB machine and tipper were in operation 1 24 2 10
+both the machines were seized 1 25 4 5
+recovered from appellants 1 29 5 3
+unauthorized or illegal extraction 2 2 4 4
+transported the minerals 2 4 13 3
+appellant shall not be entitled to dispose of the land 2 21 4 10

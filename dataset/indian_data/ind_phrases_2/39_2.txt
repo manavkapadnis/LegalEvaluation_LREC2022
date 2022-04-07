@@ -1,0 +1,17 @@
+Prevention of Corruption Act 0 27 12 4
+working as clerk and manager 0 30 4 5
+state bank of mysore 0 30 11 4
+entered into a criminal conspiracy 0 30 15 5
+committed several acts 0 31 3 3
+breach of trust 0 31 7 3
+cheating, forgery, falsification of accounts 0 31 10 5
+misappropriation of funds 1 0 2 3
+raised fraudulent debits 1 0 14 3
+credited to the personal accounts 1 3 7 5
+obtained by forging the withdrawals 1 4 1 5
+accused persons fraudulently added a fictitious name 1 5 0 7
+in
+default to pay the fine amount 1 31 17 6
+non-examination of the hand writing expert 3 7 1 6
+had no power to prematurely close the deposits 3 10 3 8
+close the account 3 10 12 3

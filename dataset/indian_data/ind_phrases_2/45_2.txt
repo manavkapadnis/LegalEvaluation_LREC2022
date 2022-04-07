@@ -1,0 +1,30 @@
+heard the sound of breaking of door 1 16 15 7
+surrounded by six persons 1 17 9 4
+he had a gun in his hand 1 18 12 7
+had a dagger in his hand 1 20 5 6
+had a knife 1 21 17 3
+they would finish him 1 23 2 4
+they came to take his money 1 23 12 6
+threatened that they would also murder his wife 1 25 3 8
+asked the whereabouts of the informant's mother 1 27 12 7
+caught hold of the victim 1 30 17 5
+took him to his parlour 1 31 5 5
+shot him with the gun in his hand 1 31 11 8
+dragged the informant by catching her hand 1 32 4 7
+made over to them some articles from a plastic box 1 37 11 10
+also gave Rs. 400 1 38 3 4
+they all left through the village fields 1 38 9 7
+come for the purpose of committing dacoity 1 39 6 7
+they would have gutted the articles 1 39 15 6
+might have caused the murder 2 6 7 5
+list of articles allegedly looted 2 7 6 5
+held an inquest over the deadbody of the victim 2 9 9 8
+found a deep bleeding wound on the victim's left chest 2 11 7 10
+caused by bullets shot from firearms 2 12 2 6
+profuse bleeding from the wound 2 12 10 5
+commission of robbery culminating in the murder 2 14 2 7
+post-mortem examination over the deadbody 2 15 2 6
+homicidal in nature 2 17 4 3
+case of gunshot injury 2 17 10 4
+eye-witness to the occurrence 2 23 12 4
+motive to commit the offence 5 17 5 5

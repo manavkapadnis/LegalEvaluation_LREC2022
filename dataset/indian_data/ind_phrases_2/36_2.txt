@@ -1,0 +1,16 @@
+prevention of corruption act 0 14 11 4
+went for a surprise visit 0 18 1 5
+a patrol man 0 19 7 3
+under the commercial tax commissionarate 0 19 10 5
+accused was collecting bribes 0 20 3 4
+to sign the papers 0 20 12 4
+give neither any valid receipt 0 21 5 5
+nor any proper explanation for such act 0 21 10 7
+complainant seized Rs. 767 from his drawer 0 22 1 7
+such collection of bribery before 0 27 4 5
+mentioned in the seizure list 0 30 18 5
+prove that there was any demand 0 31 14 6
+voluntary acceptance of the alleged bribe 0 32 5 6
+asked to sign on a paper 1 26 4 6
+did not bear the signature 1 30 6 5
+appellant demanded illegal gratification 2 12 9 4

@@ -1,0 +1,12 @@
+as the work in office 0 32 6 5
+was not being attended to 0 32 14 5
+bribe was demanded 0 33 5 3
+reported to anti corruption bureau 0 34 3 5
+papers were collected by staff 0 35 7 5
+relevant record to substantiate contention 1 2 16 5
+statements of witnesses 1 5 10 3
+work not being attended 1 19 6 4
+cognizance of such an oral complaint 1 20 8 6
+supported by entry in telephone records 1 22 16 6
+validity is still to be certified 1 33 12 6
+papers were taken from him outside the office 2 10 0 8

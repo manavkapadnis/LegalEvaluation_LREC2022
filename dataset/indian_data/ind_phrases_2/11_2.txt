@@ -1,0 +1,15 @@
+brown envelope 0 23 15 2
+recovered articles 0 24 3 2
+8 to 10 persons entered in their house 0 29 13 8
+indulged in robbing 0 30 7 3
+valuables 0 31 3 1
+injuring them with deadly weapons 0 31 5 5
+dug out a particular place in the field 1 5 1 8
+took out a polythene bag 1 5 10 5
+containing gold ornaments 1 5 15 3
+examined by the prosecution as belonging to them 1 6 8 8
+man in possession of a stolen goods 1 9 2 7
+soon after the theft 1 9 9 4
+robbed articles were found to be kept concealed 1 11 0 8
+presumed to be one of the decoit 1 12 7 7
+involved in the decoity 1 12 14 4

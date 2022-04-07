@@ -1,0 +1,23 @@
+convicted under section 302 0 28 9 4
+sentenced to suffer life imprisonment 0 29 5 5
+murdered in the area 1 1 4 4
+were in jail in connection with this murder 1 2 0 8
+catching hold of deceased 1 5 5 4
+accused no.1 had wooden danda 1 6 6 5
+accused no.2 had one iron pipe 1 6 12
+blow of wooden danda on legs and on thigh 1 7 16 9
+shouting allegedly to cut legs and hands of deceased 1 8 12 9
+sustained injury on her back 1 10 8 5
+sari was stained with blood 1 10 14 5
+seriously injured 1 13 5 2
+he was declared dead 1 14 7 4
+because of this abuse losing self control 1 20 3 7
+at the spur of moment 1 20 11 5
+stab injury or puncture wound injury 2 3 7 6
+homicidal nature of death 2 30 1 4
+multiple abrasions over head 3 7 1 4
+contunsion over right arm 3 13 1 4
+injuries are on vital part 3 24 5 5
+sufficient in ordinary course of nature to cause death 3 24 11 9
+shouts of provocation 4 31 15 3
+ 

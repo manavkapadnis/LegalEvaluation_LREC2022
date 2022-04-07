@@ -1,0 +1,18 @@
+preparation to kill 0 27 12 3
+armed with deadly weapons 1 2 9 4
+committed the murder 1 3 5 3
+rushed to the spot 1 4 6 4
+cries of the injured 1 4 13 4
+assaulting the deceased with lathis 1 5 2 5
+injured died instantaneously 1 6 2 3
+accused fled away 1 6 7 3
+dead body was seen 1 7 1 4
+eye witnesses of the incident 1 12 4 5
+convicted the accused 1 13 11 3
+scared of the accused 1 33 6 4
+at the time of the occurrence of the murder 2 30 13 9
+allegedly tried to chase them 2 32 10 5
+recording of the statements 3 3 17 4
+evidence relating to recovery of sticks 3 9 7 6
+stained with human blood 3 11 8 4
+preparation of conspiracy of the accused to commit the murder 5 34 15 10

@@ -1,0 +1,14 @@
+recalculate the interest and date on which the mortgaged assets 1 12 11 10
+immovable property of premises 1 15 0 4
+deposit the remaining outstanding dues 1 16 2 5
+prepare an inventory 1 37 11 3
+sanctioned the two term loans 2 10 2 5
+default in payment of the corporation dues 2 15 2 7
+valuation of the mortgaged assets 2 26 12 5
+minimum value of the land 2 28 2 5
+valuation of the said properties 2 32 12 5
+indulged in getting cash 3 13 0 4
+credit facilities illegally 3 13 12 3
+prevention of corruption act 3 16 3 4
+misutilization of crores of rupees 4 10 17 5
+subsequent sale advertisement notice 4 24 4 4

@@ -1,0 +1,8 @@
+mines and mineral regulation & development act 0 16 2 7
+illegal or unauthorized mining operation 0 22 0 5
+separate mining lease 0 22 10 3
+allegation discloses a civil dispute 2 13 3 5
+indulging in illicit mining 2 18 10 4
+theft of sand 2 19 0 3
+theft of sand and gravels 2 22 3 5
+from the government land 2 22 8 4

@@ -1,0 +1,15 @@
+prevention of corruption act 0 24 8 4
+working as a clerk 0 30 4 4
+auditor and senior clerk 0 31 5 4
+anti corruption bureau 0 33 13 3
+accounts of his office 0 34 12 4
+public servants 1 1 13 2
+the raiding party 1 2 9 3
+fulfill the demand 1 6 16 3
+hand over the said amount 1 8 14 5
+money in the form of bribe or gratification 1 21 3 8
+attempt to obtain an undue advantage 2 12 14 6
+granted sanction 2 27 4 2
+deposited through challan in treasury 3 0 0 5
+adopting illegal means 4 4 6 3
+corroboration of the testimony 4 12 10 4

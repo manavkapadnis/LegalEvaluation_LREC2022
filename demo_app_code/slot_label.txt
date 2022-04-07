@@ -1,0 +1,11 @@
+PAD
+UNK
+O
+B-Land_Dispute
+I-Land_Dispute
+B-Corruption
+I-Corruption
+B-Murder
+I-Murder
+B-Robbery
+I-Robbery

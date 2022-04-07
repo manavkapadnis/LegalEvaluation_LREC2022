@@ -1,0 +1,21 @@
+for committing murder of deceased 0 25 8 5
+no eye witness 0 31 9 3
+conviction is based only on circumstantial evidence 0 31 13 7
+test identification parade was conducted 1 1 1 5
+recoveries have been effected 1 10 4 4
+properties shown as discovered therein were not disclosed 1 13 15 8
+identified only some of the ornaments 1 15 8 6
+alleged currency notes seized 1 17 15 4
+evidence does not show that bag discovered 1 21 0 7
+finger prints of accused 1 24 10 4
+person who has committed murder and robbery 1 36 9 7
+kept their ornaments and jewellery 1 38 6 5
+absence of adult members in flat house at relevant time 2 4 2 10
+lying on floor with her limbs tied 2 28 10 7
+articles in cupboard were lying scattered 2 30 4 6
+jewellery box watch box which contained ornaments watches 3 1 8 8
+cash amount was found empty 3 2 3 5
+homicidal death 3 5 2 2
+found dead bodies and robbery being committed 3 7 1 7
+saw accused persons hurriedly leaving that building 3 27 6 7
+articles and cash were placed in transparent plastic bag 5 15 8 9

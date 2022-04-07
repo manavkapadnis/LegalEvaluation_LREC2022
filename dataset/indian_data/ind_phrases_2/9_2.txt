@@ -1,0 +1,21 @@
+convicting the accused 0 18 11 3
+offence punishable under Section 302 of the IPC 0 19 0 8
+death of the deceased 0 21 11 4
+culpable homicide not amounting to murder 0 22 2 6
+kill his wife 0 26 16 3
+under the influence of liquor 1 0 0 5
+tried to save the deceased 1 2 8 5
+poured water to save her 1 2 14 5
+sustained the injuries 1 3 14 3
+abusing and assaulting the deceased 1 12 1 5
+poured kerosene on her 1 12 8 4
+set her ablaze 1 12 14 3
+dying declaration of the deceased 1 16 6 5
+came out of the room making noise 1 16 14 7
+very much conscious condition 2 12 4 4
+post-mortem certificate 2 31 12 2
+act of causing injury so imminently dangerous 3 8 13 7
+element of inebriation 3 27 3 3
+accused was in his complete senses 3 28 9 6
+attempt to cloak his guilt 3 30 5 5
+screamed for help 3 30 18 3

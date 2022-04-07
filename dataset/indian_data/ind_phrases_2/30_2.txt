@@ -1,0 +1,25 @@
+claimed possessory title 0 20 2 3
+based on prior possession for a number of years 0 20 4 9
+wrongly dispossessed by defendants 0 21 7 4
+proved their title and possession over the suit property 0 24 11 9
+did not have any title deed 0 26 6 6
+alleged long possession 0 27 6 3
+nobody with better title over it 0 28 0 6
+much less for a longer time lawfully 1 5 9 7
+from the date of purchase 1 8 11 5
+few parts of which were rented out or sold 1 12 3 9
+continued in illegal possession 1 13 13 4
+remaining land vested in the state government 1 14 13 7
+planned and well-managed colony 1 16 4 4
+survey maps of the municipality 1 17 8 5
+plot to the east 1 18 12 4
+measurement of the land 1 29 13 4
+sanction for constructing the house 1 36 4 5
+immovable property based on previous possession 2 0 14 6
+as if he were a true owner 2 4 12 7
+whose rights are ultimate permanent and residual 2 9 13 7
+protection of ownership 2 22 6 3
+one acquiesced to by the true owner 3 23 3 7
+stray or intermittent acts of trespass 3 25 17 6
+purchased three plots 3 37 7 3
+cannot be allowed to succeed 5 0 18 5

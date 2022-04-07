@@ -1,0 +1,905 @@
+Doc Name,Intent Phrase,Intent,Sub Intent
+07_1062_dispute,refuses to take premium sports channels from a channel supplier,Land_Dispute,action
+07_1062_dispute,goes out of business,Land_Dispute,description
+07_1062_dispute,refusing to accept offers,Land_Dispute,action
+07_1062_dispute,advantage of its substantial power,Land_Dispute,claim
+07_1062_dispute,46(1) of the trade practices act 1974,Land_Dispute,judgement_source
+07_1062_dispute,45(2)(a)(ii) of the tp act,Land_Dispute,judgement_source
+07_1062_dispute,advantage of substantial market power,Land_Dispute,claim
+07_1062_dispute,45(2) of the tp act,Land_Dispute,judgement_source
+07_1062_dispute,by refusing to accept offers,Land_Dispute,claim
+07_1062_dispute,purpose of substantially lessening competition,Land_Dispute,claim
+07_1895_dispute,corporations act 2001 (cth),Land_Dispute,judgement_source
+07_1895_dispute,plaintiff claimed that it had a cross demand,Land_Dispute,claim
+07_1895_dispute,cross claim by the plaintiff,Land_Dispute,claim
+07_1895_dispute,a claim for costs,Land_Dispute,claim
+07_1895_dispute,offsetting claim in respect of the costs,Land_Dispute,claim
+07_1895_dispute,expert evidence of,Land_Dispute,evidence
+07_1895_dispute,evidence to suggest that there was a loss,Land_Dispute,evidence
+07_1895_dispute,evidence is that those commercially sold water meter,Land_Dispute,evidence
+07_1895_dispute,evidence to show the basis upon which the loss is said to arise and how that loss is calculated.,Land_Dispute,evidence
+07_1895_dispute,precision in the evidence concerning the quantum of the cross demand,Land_Dispute,evidence
+07_1895_dispute,corporations act 2001 (cth),Land_Dispute,judgement source
+07_2082_dispute,claimed breach of contract,Land_Dispute,claim
+07_2082_dispute,claims that payment under the performance guarantees will adversely affect its commercial reputation,Land_Dispute,claim
+07_2082_dispute,Clough had failed to honour commitments,Land_Dispute,claim
+07_2082_dispute,evidence that the required policies are in full force and effect,Land_Dispute,evidence
+07_2082_dispute,the evidence is that the Banks are unwilling to provide further facilities to Clough,Land_Dispute,evidence
+07_2082_dispute,evidence given during his cross-examination requires to be understood,Land_Dispute,evidence
+07_2082_dispute,section 7(2) of the International Arbitration Act 1974 (Cth),Land_Dispute,judgement source
+07_2082_dispute,51AA of the Trade Practices Act 1974 (Cth),Land_Dispute,judgement source
+07_2082_dispute,which loss directly resulted from provisions taken,Land_Dispute,action
+07_2082_dispute,breach of this provision,Land_Dispute,action
+07_2082_dispute,the risk of a party being out of pocket,Land_Dispute,party
+07_2082_dispute,party becomes entitled to exercise a right under the contract,Land_Dispute,party
+08_29_dispute,applicant's claim it might seek some form of rectification of the Agreement,Land_Dispute,claim
+08_29_dispute,alleged breach of s 52 of the Trade Practices Act 1974 (Cth),Land_Dispute,judgement source
+08_29_dispute,claim for a declaration that the respondent is obliged to accept all purchase orders,Land_Dispute,claim
+08_29_dispute,31A of the Federal Court of Australia Act 1976 (Cth),Land_Dispute,judgement source
+08_29_dispute,160 FCR 298 at [54],Land_Dispute,judgement source
+08_29_dispute,arbitration clause obliged parties to submit to arbitration,Land_Dispute,party
+08_29_dispute,party seeks declaratory or injunctive relief,Land_Dispute,party
+08_29_dispute,preserved entitlement of a party under cl 20.3,Land_Dispute,party
+08_29_dispute,international arbitration act 1974,Land_Dispute,judgement source
+08_29_dispute,dispute in those circumstances where declaratory relief sought,Land_Dispute,action
+08_29_dispute,agreement obliged parties to submit the dispute,Land_Dispute,action
+08_29_dispute,Article II cl 1 also contemplates,Land_Dispute,judgement source
+08_29_dispute,That reference to cl 20 of the Agreement,Land_Dispute,judgement source
+08_29_dispute,respondent has no reasonable prospect of successfully resisting the claim,Land_Dispute,claim
+08_29_dispute,The evidence indicates that it was only some time later,Land_Dispute,evidence
+08_29_dispute,clear evidence that the Netherlands is a Convention country,Land_Dispute,evidence
+08_29_dispute,there being no evidence of any other agreed commencement date,Land_Dispute,evidence
+08_1112_dispute,claims relief in respect of subscription,Land_Dispute,claim
+08_1112_dispute,legal bases of the claims for relief in the ACC,Land_Dispute,claim
+08_1112_dispute,cross-examined on issues raised by the cross-claim,Land_Dispute,claim
+08_1112_dispute,claims various forms of relief,Land_Dispute,claim
+08_1112_dispute,evidence of any loss of damage being suffered,Land_Dispute,evidence
+08_1112_dispute,"1041E , 1041H , 1041I , 1325 (1) and (5) of the Corporations Act 2001",Land_Dispute,judgement source
+08_1112_dispute,s 12 of the ACT Act b,Land_Dispute,judgement source
+08_1112_dispute,misleading or deceptive conduct,Land_Dispute,action
+08_1112_dispute,intention to contract,Land_Dispute,action
+08_1112_dispute,share subscription deed declared void,Land_Dispute,description
+08_1112_dispute,51A of the Federal Court of Australia Act 1976 (Cth),Land_Dispute,judgement source
+07_1251_dispute,evidence and in the light of the legislation and the authorities,Land_Dispute,evidence
+07_1251_dispute,298K(1) of the Act,Land_Dispute,judgement source
+07_1251_dispute,referring thereby to s 298L(2) of the Act,Land_Dispute,judgement source
+07_1251_dispute,no evidence that [Mr Davies' conduct]... injured [Mr Lever] in his employment,Land_Dispute,evidence
+07_1251_dispute,provided no satisfactory rejoinder,Land_Dispute,action
+07_1251_dispute,purported breach of part xa of the workplace relations act 1996,Land_Dispute,judgement source
+07_1251_dispute,claim that in any event were 'unsupported by evidence and wrong',Land_Dispute,claim
+07_1251_dispute,believing that he would be promoted to SPO1,Land_Dispute,action
+07_1251_dispute,strategy denies [ANSTO] the opportunity,Land_Dispute,description
+07_1251_dispute,unable to demonstrate that there was occasioned to him,Land_Dispute,description
+06_307_murder,convicted of attempted murder,Murder,judgement_final
+06_307_murder,s 501(2) of the Migration Act 1958,Murder,judgement_source
+06_307_murder,substantial criminal record,Murder,evidence
+06_307_murder,sentenced to imprisonment,Murder,judgement_final
+06_307_murder,At the trial Mrs Flowers gave evidence,Murder,evidence
+06_307_murder,loaded gun,Murder,weapon
+06_307_murder,"discharged the gun, shooting her",Murder,action
+06_307_murder,She managed to get hold of the gun,Murder,action
+06_307_murder,He followed her from the bedroom,Murder,action
+06_307_murder,She escaped from the house.,Murder,action
+06_307_murder,was shot accidentally in the ensuing struggle,Murder,action
+06_307_murder,s 16 of the Criminal Code 1924,Murder,judgement_source
+06_307_murder,the wife's account was likely to be the more reliable,Murder,description
+06_307_murder,his intention was to kill himself in front of his wife,Murder,motive
+06_307_murder,He was a person who held grudges,Murder,cause
+06_307_murder,committed a very serious crime,Murder,description
+06_307_murder,no risk of further criminal behaviour,Murder,description
+06_525_murder,murder of businessman associated with political party,Murder,description
+06_525_murder,Mr Ramesh and his family were murdered,Murder,action
+06_525_murder,Evidence before the Tribunal in this respect,Murder,evidence
+06_525_murder,s 36(2) of the Act,Murder,judgement_source
+06_525_murder,the appellant applied for judicial review,Murder,description
+06_525_murder,s 39B of the Judiciary Act 1903,Murder,judgement_source
+06_525_murder,police wanted to interview all persons associated with the murder,Murder,description
+06_525_murder,police in tamil nadu seeking applicant for questioning,Murder,description
+06_525_murder,Ramesh had been murdered and he was associated with the crime,Murder,description
+06_525_murder,the appellant was a truthful witness,Murder,witness
+06_525_murder,overall his evidence was plausible,Murder,evidence
+06_525_murder,he had supplied additional evidence to the tribunal,Murder,evidence
+06_842_murder,warrant issued under s 19(9) of the Extradition Act 1998,Murder,judgement_source
+06_842_murder,extradition offence being a charge of murder,Murder,judgement_final
+06_842_murder,applicant has been unlawfully detained since his arrest,Murder,description
+06_842_murder,Adult female body found in shallow grave in desert,Murder,evidence
+06_842_murder,postmortem decompositional change,Murder,evidence
+06_842_murder,early mummification of the extremities,Murder,evidence
+06_842_murder,animal activity and insect activity on body,Murder,evidence
+06_842_murder,blood-stained fluid from chest; spleen,Murder,injury
+06_842_murder,highly suspicious for homicide,Murder,description
+06_842_murder,smothering or a similar form of asphyxiation,Murder,injury
+06_842_murder,murder of the deceased female,Murder,action
+06_842_murder,issued a provisional arrest warrant under s 12 of the Act,Murder,judgement_source
+06_842_murder,he has been physically abused and maltreated,Murder,description
+06_842_murder,s 23 of the Federal Court of Australia Act 1976,Murder,judgement_source
+06_1346_murder,s 19 of the Extradition Act 1998,Murder,judgement_source
+06_1346_murder,Basic Criminal Code of the Republic of Croatia,Murder,judgement_source
+06_1346_murder,counts of alleged war crimes,Murder,description
+06_1346_murder,"causing death, severe bodily harm or serious damage",Murder,description
+06_1346_murder,torture or inhumane treatment,Murder,injury
+06_1346_murder,The punishment prescribed for such offence,Murder,judgement_final
+06_1346_murder,Article 120 of the Code,Murder,judgement_source
+06_1346_murder,dual criminality,Murder,description
+06_1346_murder,soliciting or encouraging a person to commit murder,Murder,cause
+06_1346_murder,malicious wounding,Murder,injury
+06_1346_murder,firing a firearm with reckless disregard for safety,Murder,action
+06_1346_murder,s 39B of the Judiciary Act 1903,Murder,judgement_source
+06_1387_murder,s 39B of the Judiciary Act 1903,Murder,judgement_source
+06_1387_murder,s 475A of the Migration Act,Murder,judgement_source
+06_1387_murder,gave him a political profile which put him at risk of harm,Murder,cause
+06_1387_murder,"she had witnessed the attack in 1994, but could not recognise the people",Murder,witness
+06_1387_murder,the attempt to murder me by JVP supporters,Murder,action
+06_1387_murder,Please find below the requisite information that will prove,Murder,evidence
+06_1387_murder,bodies of these youths would be discovered burnt or mutilated,Murder,injury
+06_1387_murder,I was left to bleed to death,Murder,injury
+06_1387_murder,suffering from survivor symptoms of post traumatic disorder and depression,Murder,description
+06_1784_murder,s 22(2) of the extradition act 1988,Murder,judgement_source
+06_1784_murder,extraditable offence of murder,Murder,judgement_final
+06_1784_murder,California Penal Code,Murder,judgement_source
+06_1784_murder,in relation to one count of murder,Murder,description
+06_1784_murder,the applicant murdered Ms Kristina Garcia,Murder,action
+06_1784_murder,"awful killing of a human being, or a fetus",Murder,action
+06_1784_murder,with malice aforethought,Murder,weapon
+06_1784_murder,applicant made extensive oral submissions,Murder,evidence
+06_1784_murder,Witnesses offered by the applicant,Murder,witness
+06_1784_murder,would be able to provide evidence in support of his arguments,Murder,evidence
+06_1784_murder,s 22(3)(c) of the Act as established in McCrea,Murder,judgement_source
+06_1784_murder,aggravating circumstances,Murder,cause
+06_1784_murder,The application should be dismissed with costs,Murder,judgement_final
+07_659_murder,Migration Act 1958,Murder,judgement_source
+07_659_murder,this organisation was disliked by the Hindu majority in the area,Murder,cause
+07_659_murder,missing girl was killed by the assistant,Murder,action
+07_659_murder,the followers of the politician beat him,Murder,action
+07_659_murder,threw stones at the office,Murder,action
+07_659_murder,tried to kill him,Murder,action
+07_659_murder,the murderer was brought to justice,Murder,description
+07_659_murder,s.424A of the Migration Act 1958,Murder,judgement_source
+07_723_murder,applicant with lengthy criminal record including conviction for attempted murder,Murder,description
+07_723_murder,s 501(2) of the Migration Act 1958,Murder,judgement_source
+07_723_murder,convicted in the Supreme Court of Western Australia for the offence of attempted murder,Murder,judgement_final
+07_723_murder,said that he intended to kill him,Murder,motive
+07_723_murder,attempted to purchase explosives,Murder,description
+07_723_murder,armed with a knife,Murder,weapon
+07_723_murder,stabbed him six times,Murder,action
+07_723_murder,Mr May was taken to hospital,Murder,action
+07_723_murder,posterior spinal cord contusion,Murder,injury
+07_723_murder,right leg weakness,Murder,injury
+07_723_murder,sensory disturbance,Murder,injury
+07_723_murder,bladder disturbance,Murder,injury
+07_723_murder,assault occasioning bodily harm,Murder,action
+07_723_murder,39B of the Judiciary Act 1903,Murder,judgement_source
+06_49_corruption,Federal Magistrate,Corruption,institutions
+06_49_corruption,the revelation by her of that corruption,Corruption,evidence
+06_49_corruption,the appellant's account of what she had done,Corruption,evidence
+06_49_corruption,the appellant collected information about corruption,Corruption,description
+06_49_corruption,the appellant pay the first respondent's costs,Corruption,judgement_final
+06_166_corruption,Federal Magistrates Court,Corruption,institutions
+06_166_corruption,She became a Falun Gong leader,Corruption,occupation
+06_166_corruption,team members felt anger with corruption and bureaucracy,Corruption,description
+06_166_corruption,refused to make a written declaration,Corruption,description
+06_166_corruption,due to corruption at the factory,Corruption,description
+06_166_corruption,provide oral evidence,Corruption,evidence
+06_166_corruption,426A of the Migration Act 1958,Corruption,judgement_source
+06_1234_corruption,Wheat Industry Stabilization Act 1948,Corruption,judgement_source
+06_1234_corruption,Wheat Marketing Act 1989,Corruption,judgement_source
+06_1234_corruption,Wheat Marketing Legislation Amendment Act 1998,Corruption,judgement_source
+06_1234_corruption,s 2(3A) of the Royal Commissions Act 1902,Corruption,judgement_source
+06_1234_corruption,s 39B(1) and (1A)(c) of the Judiciary Act 1903,Corruption,judgement_source
+06_1234_corruption,allegations of fraud and corruption,Corruption,description
+06_1234_corruption,administration and management of the Oil-for-Food Programme,Corruption,institutions
+06_1234_corruption,agents or contractors engaged in any illicit or corrupt activities,Corruption,description
+06_1234_corruption,illicit income totalling about US$1.8 billion from companies,Corruption,finance
+06_1234_corruption,largest source of illicit income,Corruption,finance
+06_1234_corruption,payments were disguised by various subterfuges,Corruption,description
+06_1234_corruption,AWB paid to Alia over $221.7 million,Corruption,finance
+06_1234_corruption,AWB made a large number of documents available to the IIC investigators,Corruption,evidence
+06_1234_corruption,The evidence before this Court,Corruption,evidence
+06_1234_corruption,AWB and Tigris entered into a transaction,Corruption,finance
+06_1234_corruption,"evidence that AWB, or any of its employees, had made payments",Corruption,evidence
+06_1234_corruption,after sales payments to individuals,Corruption,finance
+06_1234_corruption,No one in AWB knew of any money being channeled to the Iraqi regime,Corruption,description
+06_1234_corruption,the discharge cost of US$12 pmt was added,Corruption,finance
+06_1234_corruption,"AWB paid port fees at the rate of US$1,500 per vessel",Corruption,finance
+06_1234_corruption,such payments were "technically in breach of sanctions",Corruption,evidence
+06_1234_corruption,The Full Court rejected this approach,Corruption,judgement_final
+06_1234_corruption,found nothing that would substantiate claims of fraud or corruption,Corruption,description
+08_498_dispute,Dr Gray was a director of Sirtex Medical Limited (Sirtex),Land_Dispute,party
+08_498_dispute,UWA decided to initiate proceedings to vindicate its asserted rights to the intellectual property,Land_Dispute,action
+08_498_dispute,Intellectual Property Regulations (the IP Regulations),Land_Dispute,judgement_source
+08_498_dispute,University of Western Australia Act 1911,Land_Dispute,judgement_source
+08_498_dispute,The malice claim attracted a good deal of evidence,Land_Dispute,evidence
+08_498_dispute,conflicts which arose between Dr Gray and various individuals in the University,Land_Dispute,party
+08_498_dispute,power to make such bylaws is conferred by section 16A(2),Land_Dispute,judgement_source
+08_498_dispute,Oxford University Act 1854,Land_Dispute,judgement_source
+08_498_dispute,Sections 2 and 3 of the University of Western Australia Act Amendment Act 1929,Land_Dispute,judgement_source
+08_498_dispute,there was no satisfactory evidence that they had been promulgated,Land_Dispute,evidence
+08_498_dispute,"Dr Gray had recently spoken with Mr James Lennon, the lawyer in charge of intellectual property",Land_Dispute,description
+08_498_dispute,"UWA cannot, by regulation, acquire property from its staff members",Land_Dispute,description
+08_498_dispute,Section 32 of the 1990 Act provides for disputes,Land_Dispute,judgement_source
+08_498_dispute,provide a procedure for determining disputes,Land_Dispute,description
+08_498_dispute,associated implied contractual obligation or an incidental equitable obligation,Land_Dispute,description
+08_498_dispute,few had specifically addressed ownership disputes,Land_Dispute,evidence
+08_498_dispute,no dispute in that case between the parties,Land_Dispute,description
+08_498_dispute,a dispute arose as to the operation of the policy,Land_Dispute,description
+08_498_dispute,A copy of the agenda was in evidence,Land_Dispute,evidence
+08_498_dispute,letter asked Dr Burton to agree not to disclose to the public,Land_Dispute,description
+08_1112_dispute,s 51A of the Federal Court of Australia Act 1976,Land_Dispute,judgement_source
+08_1112_dispute,s 12GB of the ASIC Act,Land_Dispute,judgement_source
+08_1112_dispute,APIR claims various forms of relief against Mr Donald Sharp,Land_Dispute,party
+08_1112_dispute,the Financial Services Reform Act,Land_Dispute,judgement_source
+08_1112_dispute,Completion Payment is set at the greater of $350K,Land_Dispute,description
+08_1112_dispute,the company is looking more like a quality beachside property,Land_Dispute,property
+08_1112_dispute,willing to commit to the terms,Land_Dispute,description
+08_1112_dispute,a number of factual issues arising out of these communications and meetings which are in dispute,Land_Dispute,description
+08_1112_dispute,disputes the terms of this conversation,Land_Dispute,description
+08_1112_dispute,resolving the dispute has been agreed in principle,Land_Dispute,action
+08_1112_dispute,to leave out of consideration any factual issues which are in dispute,Land_Dispute,description
+08_1112_dispute,suggesting ways in which the dispute might be able to be settled,Land_Dispute,action
+08_1112_dispute,there are a number of factual issues in dispute,Land_Dispute,claim
+08_1112_dispute,to credit in determining issues in dispute,Land_Dispute,action
+08_1112_dispute,the allegation cannot be sustained,Land_Dispute,judgement_final
+08_1112_dispute,The cross-claim must be dismissed,Land_Dispute,judgement_final
+08_125_robbery,s 501(2) of the migration act 1958,Robbery,judgement_source
+08_125_robbery,armed robbery and possession of a shortened firearm,Robbery,description
+08_125_robbery,s 501(6) of the Migration Act 1958,Robbery,judgement_source
+08_125_robbery,applicant has been convicted of several multiple offences including armed robbery,Robbery,description
+08_125_robbery,violence was used against victims in at least two of the robberies,Robbery,action
+08_125_robbery,effect of the observations is that there is simply no evidence,Robbery,description
+08_125_robbery,costs of the application are borne by the first respondent,Robbery,judgement_final
+08_125_robbery,s 476A of the Migration Act 1958,Robbery,judgement_source
+08_125_robbery,Mr Green was convicted of stealing,Robbery,description
+08_125_robbery,Mr Green is contrite about his misdemeanours,Robbery,description
+08_125_robbery,the witnesses did not give evidence orally,Robbery,witness
+06_1545_corruption,Migration Act 1958,Corruption,judgement_source
+06_1545_corruption,which outlined the evidence before the delegate,Corruption,evidence
+06_1545_corruption,the above facts and information,Corruption,evidence
+06_1545_corruption,The Penal Code 1860,Corruption,judgement_source
+06_1545_corruption,we committed to focus on the truth and disclosed all sorts of corruption,Corruption,evidence
+06_1545_corruption,The decision of the High Court,Corruption,judgement_final
+06_1545_corruption,the [appellant] was very vague indeed about the controversial political events,Corruption,description
+06_1545_corruption,Special Power Act 1974,Corruption,judgement_source
+06_1545_corruption,Public Safety Act 2000,Corruption,judgement_source
+06_1545_corruption,there is credibility in the applicant's post-hearing claim,Corruption,description
+06_1545_corruption,all of the claims of the appellant to be regarded as a refugee,Corruption,judgement_final
+06_1645_corruption,ss 424A(1) and 425 of the Migration Act 1958 (Cth),Corruption,judgement_source
+06_1645_corruption,"In the course of the hearing, the Appellant articulated two further grounds of error",Corruption,description
+06_1645_corruption,"the Price Administration Bureau of Suzhou City, Jiangsu Province",Corruption,institution
+06_1645_corruption,the Appellant observed extensive corruption throughout the administration,Corruption,description
+06_1645_corruption,impossible to completely eradicate the influences of corruption,Corruption,description
+06_1645_corruption,influential opposition would significantly constrain public corruption,Corruption,action
+06_1645_corruption,a large anti-corruption movement began to take shape,Corruption,description
+06_1645_corruption,successfully reduce corruption,Corruption,action
+06_1645_corruption,the Appellant experienced 'huge mental pressure',Corruption,description
+06_1645_corruption,provided his correct details and explained,Corruption,evidence
+06_1645_corruption,the credibility of the Applicant's account,Corruption,evidence
+06_1645_corruption,appeal is to be dismissed with costs,Corruption,judgement_final
+06_1632_corruption,fear of persecution for reason of membership of particular social group or political opinion,Corruption,action
+06_1632_corruption,imputation of political opinion,Corruption,action
+06_1632_corruption,tribunal,Corruption,institutions
+06_1632_corruption,refugee review tribunal,Corruption,occupation
+06_1632_corruption,Convention refugee,Corruption,occupation
+06_1632_corruption,application for a protection visa was rejected,Corruption,action
+06_1632_corruption,delegate of the Minister,Corruption,occupation
+06_1632_corruption,Federal Magistrates Court,Corruption,institutions
+06_1632_corruption,various occupations including television commentator and journalist,Corruption,description
+06_1632_corruption,Social National Party of Ukraine,Corruption,institutions
+06_1632_corruption,suffered persecution and threats from law enforcement agencies,Corruption,description
+06_1632_corruption,appellant made additional claims in his oral submissions,Corruption,description
+06_1632_corruption,Tribunal made several findings of fact adverse to the appellant,Corruption,description
+06_1632_corruption,involvement in the exposure of the oil racket,Corruption,description
+06_1632_corruption,"[appellant] was neither a member of the SNPU, nor a political journalist/commentator",Corruption,evidence
+06_1632_corruption,concludes that he has no publicly identified political opinions in the party political sense,Corruption,judgement_final
+06_1632_corruption,[appellant's] actions were taken as part of his employment ,Corruption,judgement_final
+06_1632_corruption,would not give rise to any perception of him as having a 'political opinion' within the meaning of the Convention,Corruption,judgement_final
+06_1632_corruption,applicant's fear is unrelated to the membership of any such group,Corruption,judgement_source
+06_1632_corruption,the revenge the [appellant] fears is directed specifically at him because of his actions in uncovering their criminal activities,Corruption,judgement_final
+07_1100_corruption,Federal Magistrate Barnes,Corruption,occupation
+07_1100_corruption,Minister for Immigration and Ethnic Affairs,Corruption,occupation
+07_1100_corruption,well-founded fear of persecution because of his political opinion,Corruption,description
+07_1100_corruption,member of the Christian-Democratic Party,Corruption,description
+07_1100_corruption,threatened and attacked because he was campaigning for the CDPU candidate and against President Kuchma,Corruption,description
+07_1100_corruption,424A(1) of the Migration Act 1958,Corruption,judgement_source
+07_1100_corruption,appellant provide additional information,Corruption,action
+07_1100_corruption,not to grant a protection visa to the appellant,Corruption,action
+07_1100_corruption,"ss 424C(1) , 425 (2)(c) and 425 (3) of the Act",Corruption,judgement_source
+07_1100_corruption,does not have a well-founded fear of persecution in Ukraine,Corruption,evidence
+07_1100_corruption,not a refugee,Corruption,evidence
+07_1100_corruption,Tribunal fell into jurisdictional error by deciding not to offer the appellant an oral hearing,Corruption,action
+07_1100_corruption,no existing obligation upon the Tribunal to invite the appellant to a hearing and to give evidence and present arguments in relation to the issues under review,Corruption,judgement_final
+07_1100_corruption,no lack of procedural fairness was established and Barnes FM dismissed the application,Corruption,judgement_final
+07_1100_corruption,second Tribunal made its decision based upon documents provided to the first Tribunal hearing,Corruption,action
+07_1100_corruption,decision of the first Tribunal was set aside due to jurisdictional error and the proceedings were remitted for determination according to law,Corruption,judgement_final
+07_1100_corruption,s 428 of the Act,Corruption,judgement_source
+07_1741_corruption,delegate of respondent minister refused protection visa,Corruption,action
+07_1741_corruption,refugee review tribunal,Corruption,occupation
+07_1741_corruption,appeal from orders of federal magistrate dismissing application for review,Corruption,action
+07_1741_corruption,appellant seeking merits review,Corruption,description
+07_1741_corruption,migration law,Corruption,description
+07_1741_corruption,application to review the Tribunal's decision be dismissed,Corruption,action
+07_1741_corruption,risk of persecution by reason of his membership of a particular social group,Corruption,description
+07_1741_corruption,not a credible witness,Corruption,description
+07_1741_corruption,"ss 47 , 65 and 414 of the Migration Act 1958",Corruption,judgement_source
+07_1741_corruption,Tribunal had failed to consider the appellant's "subjective fear",Corruption,description
+07_1741_corruption,appellant claimed that prior to his death in December 1997 his brother had been a lieutenant in the Sri Lankan army,Corruption,description
+07_1741_corruption,corruption of certain high-ranking officers who supported the People's Alliance,Corruption,description
+07_1741_corruption,appellant claimed that his brother had been engaged in leaking information about the corruption,Corruption,description
+07_1741_corruption,contained information about LTTE operations and the corruption of high-ranking officers,Corruption,description
+07_1741_corruption,Tribunal rejected the appellant's claims,Corruption,action
+07_1741_corruption,Tribunal had considered the matters therein particularised,Corruption,judgement_final
+07_1741_corruption,rejected the contention that the appellant had been denied natural justice,Corruption,judgement_final
+07_1741_corruption,"As neither preceding ground was made out, ground 3 also failed",Corruption,judgement_final
+07_1741_corruption,rejected the contention that the Tribunal had failed to consider subjective fear in relation to a "well-founded fear of persecution",Corruption,judgement_final
+07_1893_corruption,claims of harassment and detention by corrupt officials,Corruption,description
+07_1893_corruption,both applied for protection visas,Corruption,description
+07_1893_corruption,applications were refused by a delegate of the Minister,Corruption,action
+07_1893_corruption,applied to the Federal Magistrates Court seeking judicial review of the Tribunal's decision,Corruption,description
+07_1893_corruption,no jurisdictional error had been made by the Tribunal and dismissed the application,Corruption,action
+07_1893_corruption,forced to close that business because of corrupt officials,Corruption,description
+07_1893_corruption,evidence that was given by the appellants at the hearing,Corruption,evidence
+07_1893_corruption,evidence from other independent sources about corruption in the People's Republic of China,Corruption,evidence
+07_1893_corruption,Any fines that he was required to pay did not remove his ability to earn enough to support himself and his family,Corruption,fine
+07_1893_corruption,husband was of no interest to Chinese authorities and was unlikely to be subject to persecution if he were to return to China,Corruption,judgement_final
+07_1893_corruption,Tribunal did not consider that exposure of corrupt practices in China could be perceived as a challenge to State authority,Corruption,judgement_final
+07_1893_corruption,appellants say that the Tribunal did not recognise or accept that they were the subject of persecution on account of alleged political beliefs or opinions,Corruption,description
+08_1270_corruption,refused the application for the protection visa,Corruption,action
+08_1270_corruption,victim of corruption at the hands of the local officials,Corruption,description
+08_1270_corruption,Hydrology and Water Resource Monitoring Bureau,Corruption,institutions
+08_1270_corruption,China Communist Party,Corruption,party
+08_1270_corruption,kept this information secret from the public,Corruption,description
+08_1270_corruption,urged the government to 'destroy corruption',Corruption,description
+08_1270_corruption,arrested on 15 May 2007 and was denounced,Corruption,action
+08_1270_corruption,incarcerated in a detention centre,Corruption,action
+08_1270_corruption,Tribunal had 'quite clearly' relied upon the appellant's own evidence,Corruption,evidence
+08_1270_corruption,erred in finding that the Tribunal had considered the appellant's review application properly,Corruption,description
+08_1270_corruption,erred in not finding that the Tribunal had failed to comply with s 424AA of the Act,Corruption,description
+08_1270_corruption,erred in not finding that the Tribunal had failed to comply with s 424A(1) of the Act,Corruption,description
+08_1270_corruption,no basis for conducting a judicial review,Corruption,judgement_final
+08_1270_corruption,rejects the appellant's first ground of appeal,Corruption,judgement_final
+08_1270_corruption,section 425,Corruption,judgement_source
+08_1270_corruption,s 424AA of the Act,Corruption,judgement_source
+08_1270_corruption,second ground of appeal is accordingly rejected,Corruption,judgement_final
+08_1270_corruption,s 424A(1) of the Act,Corruption,judgement_source
+08_1270_corruption,dismissed with costs,Corruption,fine
+06_267_dispute,large corporate group,Land_Dispute,party
+06_267_dispute,inter-group transactions undertaken over six consecutive fiscal years,Land_Dispute,description
+06_267_dispute,transactions involving inter-group interest,Land_Dispute,description
+06_267_dispute,transfers of tax losses arising out of those borrowings,Land_Dispute,evidence
+06_267_dispute,prior primary and appellate claims by proceedings in federal court,Land_Dispute,claim
+06_267_dispute,made by borrowing member against the commissioner,Land_Dispute,party
+06_267_dispute,interest deductibility in respect of one fiscal year,Land_Dispute,final_jugdgement
+06_267_dispute,findings made in context of those proceedings,Land_Dispute,evidence
+06_267_dispute,assessability to tax of that group member in respect of some transactions for differing fiscal years,Land_Dispute,description
+06_267_dispute,authority in australian courts of earlier decisions,Land_Dispute,party
+06_267_dispute,summary judgment application of commissioner granted,Land_Dispute,judgement_final
+06_267_dispute,income tax,Land_Dispute,evidence
+06_267_dispute,text to the principal proceedings and to the Commissioner's application for summar,Land_Dispute,evidence
+06_267_dispute,Part IVC of the Taxation Administration Act 1953,Land_Dispute,judgement_source
+06_267_dispute,the Administration Act,Land_Dispute,judgement_source
+06_267_dispute,determinations by the respondent Commissioner of Taxation,Land_Dispute,action
+06_267_dispute,objections lodged by the taxpayer applicants,Land_Dispute,action
+06_267_dispute,deductibility of the interest expense incurred by Spassked,Land_Dispute,action
+06_267_dispute,Income Tax Assessment Act 1936,Land_Dispute,judgement_source
+06_267_dispute,the Commissioner issued assessments against Spassked,Land_Dispute,action
+06_267_dispute,disallowed the deductions for the interest originally claimed,Land_Dispute,action
+06_267_dispute,declarations that the applicant taxpayers are estopped from advancing,Land_Dispute,judgement_final
+06_267_dispute,by reason of the outcome of the earlier concluded Spassked proceedings,Land_Dispute,description
+06_267_dispute,A subsequent application by Spassked for leave to appeal to the High Court,Land_Dispute,action
+06_404_dispute,three different groups of applicants encompassed within,Land_Dispute,party
+06_404_dispute,Court ordered that the Orders of a Registrar of the Court made,Land_Dispute,action
+06_404_dispute,Pursuant to section 67 of the Native Title Act 1993,Land_Dispute,judgement_source
+06_404_dispute,Order 29 rule 5 of the Federal Co,Land_Dispute,judgement_source
+06_404_dispute,The members of this native title claim group are said to be the descendents of persons,Land_Dispute,description
+06_404_dispute,they would regard a native title determination,Land_Dispute,description
+06_404_dispute,the parties in their submissions said that all evidence,Land_Dispute,description
+06_404_dispute,be more 'site specific' when addressing issues of extinguishment,Land_Dispute,description
+06_404_dispute,The native title rights and interests that exist in relation to each part,Land_Dispute,evidence
+06_404_dispute,The applicants later tendered an anthropology report,Land_Dispute,action
+06_404_dispute,but limited to its use pursuant to s 136 of the Evidence Act 1995 (Cth),Land_Dispute,judgement_source
+06_404_dispute,extensive documentary material filed in support of the report of Ms Wilson,Land_Dispute,evidence
+06_404_dispute,written closing submissions were submitted jointly by Defence Housing Authority,Land_Dispute,action
+06_404_dispute,The 'men only' evidence was to be transcribed by a man,Land_Dispute,evidence
+06_404_dispute,upon acquisition of sovereignty over a particular part of Australia,Land_Dispute,description
+06_404_dispute,where an application lodged before 30 September 1998 has been amended,Land_Dispute,action
+06_404_dispute,subsequent to the commencement of the amending Act,Land_Dispute,judgement_source
+06_404_dispute,obviously has played an instrumental role in the increased awareness,Land_Dispute,description
+06_404_dispute,the indigenous community in this period 1825-1900 carried out types of economic activity,Land_Dispute,party
+06_404_dispute,ceremonies and song cycles of both practical and spiritual significance,Land_Dispute,description
+06_404_dispute,because there is no historical record of Aboriginal people,Land_Dispute,evidence
+06_404_dispute,directed the Woolners to return to their own country,Land_Dispute,action
+06_404_dispute,reported on a 'large invasion of Wagites' to the town area,Land_Dispute,evidence
+06_404_dispute,historical evidence quoted above does not necessarily lead to this conclusion,Land_Dispute,description
+06_404_dispute,there are indications that traditional laws and customs were also being asserted,Land_Dispute,evidence
+06_404_dispute,the historical record indicates that it was accepted by some of the colonisers,Land_Dispute,evidence
+06_343_dispute,Limited also objects to inspection being allowed in respect of the seven documents,Land_Dispute,judgement_final
+06_343_dispute,they are covered by the privilege in respect of settlement negotiations,Land_Dispute,description
+06_343_dispute,five Seven Network Limited group of companies,Land_Dispute,party
+06_343_dispute,assigned certain rights in relation to that deed,Land_Dispute,action
+06_343_dispute,the Applicants and Network Ten Pty Limited produce to Nine for inspection,Land_Dispute,judgement_final
+06_343_dispute,deal with the seven documents as identified in the AFL list,Land_Dispute,description
+06_343_dispute,they are covered by the privilege in respect of settlement negotiations,Land_Dispute,description
+06_343_dispute,evidence being adduced in the proceeding concerned,Land_Dispute,action
+06_343_dispute,the provisions of s 142(1) of the Act,Land_Dispute,judgement_source
+06_343_dispute,who carries the onus of establishing that the seven documents,Land_Dispute,evidence
+06_343_dispute,Third Party Licence the AFL will provide to Seven written notice of the terms and conditions,Land_Dispute,judgement_source
+06_343_dispute,"On 20 October 2005 Clayton Utz, Solicitors, wrote to the AFL on behalf of the five Seven Network Limited",Land_Dispute,evidence
+06_343_dispute,granted to our clients pursuant to clause 4 of the deed,Land_Dispute,action
+06_343_dispute,fresh notice was provided to Clayton Utz under cover of a letter,Land_Dispute,action
+06_343_dispute,That letter hinted at the possibility of proceedings being instituted,Land_Dispute,evidence
+06_343_dispute,to accept service of process and Orders made by the Court,Land_Dispute,judgement_source
+06_343_dispute,prepared in connection with attempts to negotiate,Land_Dispute,action
+06_343_dispute,implied consent of the persons in dispute and that a full disclosure of the evidence is reasonably necessary,Land_Dispute,description
+06_343_dispute,the offer contained within it does not amount to a communication,Land_Dispute,evidence
+06_343_dispute,The document is not privileged from production on the basis of privilege,Land_Dispute,description
+06_343_dispute,The modification does not relevantly affect the privileged status of the document,Land_Dispute,description
+06_343_dispute,copy of document number 21 endorsed with the word 'Agreed',Land_Dispute,evidence
+06_343_dispute,valid First Offer under the First and Last Deed,Land_Dispute,judgement_final
+06_343_dispute,give rise to the alleged partial disclosure of that letter,Land_Dispute,description
+06_343_dispute,Whilst the document refers to the communication between Clayton Utz and Browne,Land_Dispute,evidence
+06_1112_dispute,I granted an injunction restraining Comandate Marine,Land_Dispute,action
+06_1112_dispute,I granted earlier to enable it to litigate its claims,Land_Dispute,action
+06_1112_dispute,claim under the Trade Practices Act 1974 (Cth),Land_Dispute,judgement_source
+06_1112_dispute,to the determination of these issues are relatively undisputed,Land_Dispute,description
+06_1112_dispute,officers and crew are capable of performing their respective obligations ,Land_Dispute,party
+06_1112_dispute,adopted a convention of sending telexes and also emails,Land_Dispute,action
+06_1112_dispute,the owner's claim for security appeared to be strategic,Land_Dispute,claim
+06_1112_dispute,The affidavit in support of the application for the arrest warrant was sworn,Land_Dispute,action
+06_1112_dispute,"solicitor for Comandate Marine, Mr Wilson.",Land_Dispute,party
+06_1112_dispute,refused Comandate Marine's application for a stay of the Full Court,Land_Dispute,action
+06_1112_dispute,on the reasons for which the Maritime Safety Authority detained the Comandate,Land_Dispute,evidence
+06_1112_dispute,with the ceiling plates and screws had been corroded,Land_Dispute,evidence
+06_1112_dispute,cabins were said to be covered in oil and extremely slippery,Land_Dispute,evidence
+06_1112_dispute,Comandate Marine sought no relief either in respect of its claim ,Land_Dispute,description
+06_1112_dispute,The effect of Comandate Marine commencing the Boomerang,Land_Dispute,description
+06_1112_dispute,cross claim founded on or arising directly out of the same subject matter,Land_Dispute,description
+06_1112_dispute,when it takes a step which is consistent only with one of those rights the law attributes to,Land_Dispute,description
+06_1112_dispute,produces the necessity of making a choice,Land_Dispute,action
+06_1112_dispute,Civil Jurisdiction and Judgments Act 1982,Land_Dispute,judgement_source
+06_1112_dispute,a general maritime claim for security for the arbitration proceedings,Land_Dispute,claim
+06_1112_dispute,claimed relief under s 29 of the Admiralty Act 1988,Land_Dispute,judgement_source
+06_1112_dispute,invoked the jurisdiction of the Court to hear and determine,Land_Dispute,action
+06_1112_dispute,claim only that relief when it invoked the jurisdiction of the Court,Land_Dispute,claim
+06_1112_dispute,"showing that the conduct of each party, as evinced to the other party and acted on by him",Land_Dispute,action
+06_1112_dispute,Court does have jurisdiction to hear and determine,Land_Dispute,description
+06_1177_dispute,their appointment was lawful,Land_Dispute,description
+06_1177_dispute,this proceeding amounts to an abuse of the procedures provided by the Act,Land_Dispute,description
+06_1177_dispute,charged with 22 counts of dishonest false accounting,Land_Dispute,evidence
+06_1177_dispute,was filed in the Federal Court on 17 October 2002,Land_Dispute,judgement_source
+06_1177_dispute,The procedural details and history of the primary proceeding are discussed,Land_Dispute,evidence
+06_1177_dispute,An Order on appeal from the decision of the [liquidator] executing the Deed,Land_Dispute,judgement_final
+06_1177_dispute,"an application for and granting leave for reasons purpose as defined in section 237 (a), (b), (c) and (d) be granted",Land_Dispute,judgement_source
+06_1177_dispute,two unsworn statements of Ms April Arslan of HWL together with exhibits were admitted into evidence,Land_Dispute,evidence
+06_1177_dispute, claimed and pursued with respect to a relatively small group of documents,Land_Dispute,claim
+06_1177_dispute,Section 53B of the Federal Court of Australia Act 1976,Land_Dispute,judgement_source
+06_1177_dispute,relevant transcripts from the primary proceeding and the appeals,Land_Dispute,evidence
+06_1177_dispute,"the Liquidator agree that the Solicitors shall, after Court approval, conduct the Proceeding on behalf of the Liquidator and the Spalla Interests.",Land_Dispute,description
+06_1177_dispute,"proposed funding agreement allowed the Spalla Interests to object to the liquidator accepting a settlement offer made only to Irlmond and, in the event of such an objection, delegated to an arbitrator",Land_Dispute,action
+06_1177_dispute,the power of the liquidator to accept a settlement offer made to the company,Land_Dispute,description
+06_1177_dispute,Deloitte parties filed a notice of motion seeking to strike out the applicants,Land_Dispute,action
+06_1177_dispute,George Motor Finance and St George Wholesale Finance filed a similar notice,Land_Dispute,party
+06_1177_dispute,date was vacated and the matter was re-listed for hearing in February 2005,Land_Dispute,description
+06_1177_dispute,may entertain the possibility of settling the matter or ending the matter,Land_Dispute,description
+06_1177_dispute,prospect of an order for costs against the liquidator,Land_Dispute,judgement_final
+06_1177_dispute,this application was likely to be heard the following morning,Land_Dispute,description
+06_1177_dispute,any appeal under s 1321 of an act,Land_Dispute,judgement_source
+06_1177_dispute,Mr Rambaldi acted in bad faith by executing the Deed,Land_Dispute,action
+06_1177_dispute,primary proceeding was commenced solely by the Spalla Interests,Land_Dispute,action
+06_1177_dispute,any breach of the LFA was deliberate and strong evidence of bad faith,Land_Dispute,evidence
+06_1177_dispute,acted dishonestly by not honouring his promise,Land_Dispute,action
+06_1722_dispute,deposes to a belief that the amount,Land_Dispute,description
+06_1722_dispute,the demand ought to be set aside as it fails,Land_Dispute,description
+06_1722_dispute,undertake a calculation of any complexity such as a calculation of interest,Land_Dispute,action
+06_1722_dispute,the Defendant has failed to comply with s 459E(2)(b) of the Act,Land_Dispute,judgement_source
+06_1722_dispute,Defendant objects to the affidavit of Mr Whitehead on the footing,Land_Dispute,action
+06_1722_dispute,failure to serve the three exhibits to the affidavit of Robert McInnes,Land_Dispute,action
+06_1722_dispute,records maintained by Australian Securities and Investments Commission,Land_Dispute,evidence
+06_1722_dispute,certified that each document so described is the document produced to the deponent,Land_Dispute,action
+06_1722_dispute,the body of the affidavit by the deponent,Land_Dispute,evidence
+06_1722_dispute,served upon the Defendant is properly and accurately described,Land_Dispute,action
+06_1722_dispute,Plaintiff refused to make the payment demanded,Land_Dispute,action
+06_1722_dispute,received the first notification of the technical documentation,Land_Dispute,description
+06_1722_dispute,the delivery is nothing like the delivery quoted,Land_Dispute,description
+06_1722_dispute,The scope of the dispute encompasses the claim by the Defendant,Land_Dispute,claim
+06_1722_dispute,an order that the Defendant pay the Plaintiff's costs,Land_Dispute,judgement_final
+06_1805_dispute,industry established a voluntary system for dealing with complaints,Land_Dispute,action
+06_1805_dispute,establishment of the Life Insurance Federation,Land_Dispute,action
+06_1805_dispute,transferred their membership to the new organisation,Land_Dispute,action
+06_1805_dispute,could not approve an external complaints resolution scheme,Land_Dispute,description
+06_1805_dispute,Australian Securities and Investments Commission Act 1989,Land_Dispute,judgement_source
+06_1805_dispute,the Corporations Law was repealed and replaced by the Corporations Act 2001,Land_Dispute,description
+06_1805_dispute,The Reform Act established a new regulatory framework,Land_Dispute,action
+06_1805_dispute,now covered a wide range of activities and products,Land_Dispute,claim
+06_1805_dispute,a complaint about the service provided by a member,Land_Dispute,claim
+06_1805_dispute,includes the provision of investment advice by investment advisers,Land_Dispute,description
+06_1805_dispute,the information was obtained the claim was held in abeyance,Land_Dispute,evidence
+06_1805_dispute,covers all complaints against members by retail investors and therefore,Land_Dispute,evidence
+06_1805_dispute,the constitution is a deemed contract,Land_Dispute,claim
+06_1805_dispute,any clauses in the articles of association of a limited company,Land_Dispute,evidence
+06_1805_dispute,general definition of a "financial product" in section 763A(1)(a),Land_Dispute,judgement_source
+06_435_corruption,tribunal made positive finding of elaboration,Corruption,action
+06_435_corruption,the applicant gave for the purposes of the application,Corruption,fine
+06_435_corruption,judge said that the appellant had told the Court,Corruption,evidence
+06_435_corruption,he would be persecuted within the meaning of the Refugee Convention,Corruption,judgement_final
+06_435_corruption,The Tribunal exceeded its jurisdiction in arriving at the decision,Corruption,description
+06_435_corruption,it must be presumed that if an applicant refers to information,Corruption,description
+06_435_corruption,reasons for the original decision may not all be 'information' within the meaning of s 424A,Corruption,evidence
+06_435_corruption,In SZDMJ v Minister for Immigration and Multicultural and Indigenous Affairs,Corruption,party
+06_435_corruption,A conclusion of fabrication and elaboration of claims is substantively different,Corruption,claim
+06_435_corruption,appellant's claims was its rejection of them as fabrications,Corruption,claim
+06_435_corruption,the appellant would not be granted a visa,Corruption,judgement_final
+06_435_corruption,The Minister submitted that the proper characterization of the Tribunal's reasons,Corruption,description
+06_435_corruption,conveyed an implication or inference that it was a complete account,Corruption,action
+06_435_corruption,appellant is entitled to orders quashing the decision,Corruption,judgement_final
+06_435_corruption,while the reasons for the original decision may not all be 'information',Corruption,evidence
+06_533_corruption,claims of the appellant wife depended entirely on the claims,Corruption,description
+06_533_corruption,the police could get away with what he described,Corruption,evidence
+06_533_corruption,evidence of the excesses of the police in Punjab would be embarrassing,Corruption,evidence
+06_533_corruption,the case as argued before her Honour and the appeal now brought,Corruption,description
+06_533_corruption,to determine the actual claims of the appellant,Corruption,action
+06_533_corruption,constituted a constructive failure to exercise jurisdiction,Corruption,action
+06_533_corruption,witnessed torture and an illegal cremation,Corruption,evidence
+06_533_corruption,could be distinguished from V v Minister for Immigration and Multicultural and Indigenous Affairs (1999) 92 FCR 353,Corruption,judgement_source
+06_533_corruption,it is sufficient to determine whether the grounds sought to be raised have a reasonable prospect of success,Corruption,description
+06_533_corruption,relevant consideration for the grant of leave,Corruption,judgement_final
+06_533_corruption,claimed fear of persecution as a result of his imputed political opinion,Corruption,claim
+06_1999_corruption,AWB has carried on business as the exclusive manager and marketer,Corruption,action
+06_1999_corruption,purchase price that must be calculated by reference to the net return,Corruption,judgement_final
+06_1999_corruption,evidence on affidavit that his understanding of his instructions was to review available evidence,Corruption,evidence
+06_1999_corruption,involved a comprehensive review of all contract arrangements,Corruption,action
+06_1999_corruption,that the iron filings claim is inextricably linked with the Tigris transaction,Corruption,evidence
+06_1999_corruption,principle extends to internal documents or parts of documents of the client,Corruption,evidence
+06_1999_corruption,made an order that paragraphs [90]-[108] should be excised from the Commonwealth's written submissions,Corruption,judgement_final
+06_1999_corruption,submitted that in respect of a number of documents,Corruption,action
+06_1999_corruption,evidence before me includes a statutory declaration by Anastasia Carayanides,Corruption,evidence
+06_1999_corruption,no evidence of a breach by AWB of Australian domestic law,Corruption,description
+09_545_corruption,appellant asserted the following facts as the foundation,Corruption,evidence
+09_545_corruption,the Prime Minister of Bangladesh resigned and transferred power to a caretaker government,Corruption,action
+09_545_corruption,was apparent to the appellant and Bangladeshi voters,Corruption,description
+09_545_corruption,addressed aspects of the facts and circumstances relied upon by the appellant,Corruption,action
+09_545_corruption,inconsistent evidence submitted by the applicant regarding his address and movements,Corruption,evidence
+09_545_corruption,applicant did not impress the Tribunal as a truthful,Corruption,description
+09_545_corruption,regarding the disappearance of politically-motivated violence in Bangladesh,Corruption,evidence
+09_545_corruption,required by paragraph 91R(1)(b) of the Act by virtue of his inability to engage in political activity at the same level he was previously engaged in for the duration of the State of Emergency,Corruption,judgement_source
+09_545_corruption,reveal that the Tribunal did not accept the real premise,Corruption,evidence
+08_502_robbery,the appellant is a citizen of Nepal who arrived in Australia,Robbery,evidence
+08_502_robbery,the subject of the application for judicial review to the Federal Magistrates Court,Robbery,action
+08_502_robbery,his house was raided by the police because the appellant had rented a floor,Robbery,action
+08_502_robbery,claimed that after the Maoist leader was arrested by the authorities the leader's friends assaulted him and broke his nose,Robbery,claim
+08_502_robbery,he could not seek protection from the authorities,Robbery,description
+08_502_robbery,they believed he was supporting the Maoists,Robbery,evidence
+08_502_robbery,member of a particular social group which was targeted by the Maoists,Robbery,evidence
+08_502_robbery,evidence regarding the arrest of his tenant,Robbery,evidence
+08_502_robbery,the appellant had been assaulted by Maoists,Robbery,description
+08_502_robbery,Amnesty International Report was put to the applicant in a s.424A letter,Robbery,judgement_source
+08_502_robbery,find denial of natural justice and procedural fairness,Robbery,evidence
+06_1324_robbery,also has relevance to the cross-claim by Marubeni,Robbery,description
+06_1324_robbery,seeks orders for indemnity and contribution as between the joint venturers,Robbery,claim
+06_1324_robbery,"claims arising out of, or in connexion with, the joint venture agreement",Robbery,claim
+06_1324_robbery,said to be open until close of business that day,Robbery,judgement_final
+06_1324_robbery,assuming responsibility for any time and cost lost should the vessel,Robbery,description
+06_1324_robbery,believed acceptance of the terms proposed by Anglo Coal,Robbery,description
+06_1324_robbery,although it was provided by the shipbrokers to Hyundai,Robbery,description
+06_1324_robbery,overlook the prospect that the principals for whom Dartbrook was acting,Robbery,description
+06_1431_robbery,made orders by consent granting injunctions against the Haslucks,Robbery,action
+06_1431_robbery,organisations whose interests are represented within Australia by AFACT include the applicants,Robbery,party
+06_1431_robbery,observed the full process of film reproduction and print presentation,Robbery,evidence
+06_1431_robbery,recognising unauthorised copies of optical discs,Robbery,stolen_items
+06_1431_robbery,producers announced that their DVDs would be released,Robbery,description
+06_1431_robbery,recorded in the order of 8 November 2005,Robbery,evidence
+06_1431_robbery,damages for infringement of copyright requires consideration of "flagrancy of the infringement",Robbery,judgement_final
+06_1431_robbery,authorities relating to the availability and principles underlying the award of exemplary damages,Robbery,description
+06_1507_robbery,appeal is a contention that that the learned Federal Magistrate was wrong,Robbery,claim
+06_1507_robbery,returned to Fiji upon the basis of both race and religion,Robbery,description
+06_1507_robbery,they commenced to harass and intimidate the members of our group,Robbery,action
+06_1507_robbery,due to the fear from the local Indigious Fijians,Robbery,description
+06_1507_robbery,few indigious fijans has been detained by the fiji Authorities,Robbery,evidence
+06_1507_robbery,claim that he experienced any difficulties in Fiji after returning from these visits,Robbery,claim
+06_1507_robbery,a protection visa during any of these earlier visits,Robbery,stolen_items
+06_1507_robbery,asked me a question about the population of one of the town in fiji,Robbery,description
+06_1507_robbery,one will know the true story all these reports are relying upon from the fiji Government,Robbery,description
+06_1507_robbery,information was put to the male appellant during the course of the hearing,Robbery,evidence
+07_1599_robbery,Federal Court Act empowers the Court to grant summary judgment,Robbery,action
+07_1599_robbery,Federal Court Act,Robbery,judgement_source
+07_1599_robbery,character test set out in s 501 of the Migration Act 1958,Robbery,judgement_source
+07_1599_robbery,resisting the Minister's motion is set out in an affidavit,Robbery,description
+07_1599_robbery,the victim sustained brain injuries and subsequently died,Robbery,evidence
+07_1599_robbery,was sentenced in the Supreme Court of New South Wales to ten years imprisonment,Robbery,judgement_final
+07_1599_robbery,applicant was released from prison does not appear in the material before me,Robbery,action
+07_1599_robbery,the applicant filed an affidavit which sets out some factual material,Robbery,witness
+07_1599_robbery,the applicant cannot succeed in any application for judicial review,Robbery,judgement_final
+07_1599_robbery,she had been fostered in Vietnam by the applicant's mother,Robbery,action
+07_1599_robbery,claim made by the applicant that might possibly suggest jurisdictional error on the part of the AAT,Robbery,claim
+06_51_robbery,"the applicant, Soufflet Beheer",Robbery,description
+06_51_robbery,filed a Further Amended Application and,Robbery,action
+06_51_robbery,the applicant made a claim for payment of a debt,Robbery,action
+06_51_robbery,They disagreed,Robbery,action
+06_51_robbery,"for the Australian Dollar equivalent of USD421,380.22",Robbery,fine
+06_51_robbery,a compromise agreement was reached,Robbery,judgement_final
+06_51_robbery,filed on 11 September 2002 by Soufflet USA Inc ("Soufflet USA"),Robbery,judgement_source
+06_51_robbery,"decisions concerning the Soufflet Group's business
+ are generally taken by Soufflet N&eacute",Robbery,action
+06_51_robbery,"AWB Ltd (""AWB""), is a publicly listed company incorporated in Australia.",Robbery,description
+06_51_robbery,It is a grains marketer and exporter,Robbery,description
+06_51_robbery,"8 Soufflet USA lodged a claim for payment of USD439,557.83 with AWB",Robbery,fine
+06_51_robbery,that Soufflet USA accepted this offer of compromise,Robbery,action
+06_51_robbery,"It also admitted that loading was not competed within the
+ time specified by the Charter Party",Robbery,evidence
+06_51_robbery,the Trade Practices Act 1974 (Cth),Robbery,judgement_source
+06_51_robbery,relied on the witness statements of Jean-Marc Philouze,Robbery,witness
+06_51_robbery,relied on the witness statements of Rohitha Welmillage,Robbery,witness
+06_51_robbery,which were also adopted as correct at trial,Robbery,judgement_final
+06_51_robbery,Mr Welmillage was a chartering officer employed by AWB,Robbery,description
+06_51_robbery,AWB put forward Mr Swales as an expert witness,Robbery,witness
+06_51_robbery,than provided for in Clause 12,Robbery,judgement_source
+06_51_robbery,"Charterers to pay Owners demurrage at the rate of USD [12,000] per day",Robbery,fine
+06_51_robbery,Clause 13 as amended by Addendum No.,Robbery,judgement_source
+06_51_robbery,"Owners to pay Charterers despatch at USD [6,000] per day",Robbery,fine
+06_51_robbery,Clause 46 as amended by Addendum No.,Robbery,judgement_source
+06_51_robbery,Clause 4 and Addendum No,Robbery,judgement_source
+06_51_robbery,"That, upon loading, the vessel proceed to an Egyptian Mediterranean Port",Robbery,action
+06_51_robbery,Charter Party (Addendum 1),Robbery,judgement_source
+06_688_corruption,a citizen of India of Punjabi ethnicity and Sikh religion,Corruption,description
+06_688_corruption,has a Bachelor of Science Degree and a Master of Science,Corruption,description
+06_688_corruption,describes his occupation as motor engineer,Corruption,occupation
+06_688_corruption,travelled out of India many times to Thailand and Indonesia for business,Corruption,finance
+06_688_corruption,Department of Immigration and Multicultural and Indigenous Affairs (DIMIA),Corruption,institutions 
+06_688_corruption,application was refused by a delegate of the Minister,Corruption,action
+06_688_corruption,decision in the Federal Magistrates Court,Corruption,finance
+06_688_corruption,"That application came on for hearing, his Honour, Smith FM, dismissed
+the application",Corruption,judgement_final
+06_688_corruption,political affiliations with a Sikh party known as Akali Dal (Badal),Corruption,party
+06_688_corruption,politician called Mohan Lal who was the Member of the State Parliament,Corruption,party
+06_688_corruption,he was detained by police,Corruption,action
+06_688_corruption,his business suffered,Corruption,finance
+06_688_corruption,Punjabis had voted for the Congress Party at the last election,Corruption,party
+06_688_corruption,Department of Foreign Affairs and Trade,Corruption,institutions 
+06_688_corruption,The appellant provided documents at the hearing concerning,Corruption,evidence
+06_688_corruption,"One was a membership card with the name, signature and photograph",Corruption,evidence
+06_688_corruption,letter appointing him to the position of General Secretary.,Corruption,evidence
+06_688_corruption,information came from the United Kingdom Home Office in a document,Corruption,evidence
+06_688_corruption,It did not accept his explanation in relation to his error,Corruption,action
+06_688_corruption,he identified paragraphs had appeared in an extract,Corruption,evidence
+06_688_corruption,424A of the Migration Act 1958 ('the Act"),Corruption,judgement_source
+06_251_robbery,a citizen of Afghanistan who was born in Haqdad village in Markazi Behsud,Robbery,description
+06_251_robbery,"he lived in Afghanistan his village was 'Aqdad, in the city of Basoud",Robbery,description
+06_251_robbery,as amended by the 1967 Protocol,Robbery,judgement_source
+06_251_robbery,It was in such areas that there was evidence of recent Taliban activity,Robbery,evidence
+06_251_robbery,A news report of 18 July 2004 recorded the capture of a former Taliban leader,Robbery,action
+06_251_robbery,He was then aged about 30,Robbery,description
+06_251_robbery,He says that he was smuggled out of Afghanistan into Pakistan,Robbery,action
+06_251_robbery,His application was accompanied by a statement,Robbery,evidence
+06_251_robbery,that the Taliban came and defeated our area,Robbery,robbers
+06_251_robbery,The young men in our village fled the area when the Taliban came,Robbery,action
+06_251_robbery,The Taliban came to my home more than twenty or thirty times,Robbery,robbers
+06_251_robbery,the Minister's delegate refused to grant the Appellant a permanent Protection,Robbery,action
+06_251_robbery,and gave evidence to it on that date,Robbery,evidence
+06_251_robbery,Statement in support on my application for review of the DIMIA decision,Robbery,evidence
+06_251_robbery,the Tribunal decided to affirm the decision of the Minister's delegate,Robbery,judgement_final
+06_251_robbery,the learned Federal Magistrate handed down his reasons for decision ordering,Robbery,judgement_final
+06_251_robbery,Taliban have been removed from power in Afghanistan,Robbery,action
+06_263_robbery,whole of the judgment of Nicholls FM given and published on 24 October 2005,Robbery,judgement_final
+06_263_robbery,his Honour dismissed an application for review,Robbery,action
+06_263_robbery,he recorded that he was sentenced early in 1997,Robbery,evidence
+06_263_robbery,Abebe v The Commonwealth [1999] HCA 14 ,Robbery,judgement_source
+06_263_robbery,(1999) 197 CLR 510 at [137],Robbery,judgement_source
+06_263_robbery,(1996) 185 CLR 259 at 272,Robbery,judgement_source
+06_315_robbery,200 of the Migration Act 1958 (Cth),Robbery,judgement_source
+06_315_robbery,he was born in North Vietnam on 10 March 1972,Robbery,description
+06_315_robbery,the applicant and two other men committed an armed robbery,Robbery,robbers
+06_315_robbery,money was stolen from him.,Robbery,stolen_items
+06_315_robbery,Crimes Act 1900 (NSW),Robbery,judgement_source
+06_315_robbery,he pleaded guilty to one count of robbery,Robbery,action
+06_315_robbery,He was sentenced on 13 February 1998 to five and a half years in prison,Robbery,judgement_final
+06_315_robbery,Minister's delegate signed a Deportation Order,Robbery,action
+06_315_robbery,the applicant did not keep that appointment and was not detained,Robbery,action
+06_315_robbery,"He was sentenced to imprisonment for one year, three months",Robbery,judgement_final
+06_315_robbery,He was also sentenced for one month,Robbery,judgement_final
+06_315_robbery,goods in custody suspected of being stolen,Robbery,robbers
+06_315_robbery,Under s 499 of the Act,Robbery,judgement_source
+06_315_robbery,within the terms of s 201 of the Act,Robbery,judgement_source
+06_315_robbery,s 500 of the Act,Robbery,judgement_source
+06_315_robbery,Thereafter the matter was transferred to the Federal Court,Robbery,action
+06_404_robbery,Part A of DG6017/1998,Robbery,judgement_source
+06_404_robbery,section 67 of the Native Title Act 1993,Robbery,judgement_source
+06_404_robbery,NT Act,Robbery,judgement_source
+06_404_robbery,All of the evidence led by the third applicants,Robbery,evidence
+06_404_robbery,Darwin is the capital city of the Northern Territory,Robbery,description
+06_404_robbery,It is a beautiful and vibrant city with a diverse population,Robbery,description
+06_404_robbery,(Native Title) Act 1994,Robbery,judgement_source
+06_404_robbery,Post and Telegraph Act 1901 (Cth),Robbery,judgement_source
+06_404_robbery,Telecommunications Act 1975 (Cth),Robbery,judgement_source
+06_404_robbery,Australian Telecommunications Corporation Act 1991 (Cth),Robbery,judgement_source
+06_404_robbery,The evidence of Aboriginal witnesses was given at the Supreme Court,Robbery,evidence
+06_404_robbery,Evidence was taken at a number of sites,Robbery,evidence
+06_404_robbery,Evidence was also given on land within the claim area,Robbery,evidence
+06_404_robbery,On site evidence was also taken at the base of Howards Peninsula,Robbery,evidence
+06_404_robbery,Two statements were tendered of witnesses,Robbery,witness
+06_404_robbery,tendering certain documents,Robbery,evidence
+06_404_robbery,"The Larrakia Tribe' in E M Curr, The Australian Race (Melbourne, 1886) (Foelsche (1886))",Robbery,description
+06_404_robbery,expert evidence of Dr Black,Robbery,evidence
+06_724_robbery,The appellant produced a document entitled ' Commendation Certification ,Robbery,evidence
+06_724_robbery,The person following him fired at him with a pistol,Robbery,robbers
+06_724_robbery,they started following him with the intention of killing him,Robbery,robbers
+06_724_robbery,referred to the killing of one of the members,Robbery,robbers
+06_724_robbery,Each of the two newspaper articles concerning the appellant showed,Robbery,evidence
+06_724_robbery,evidence that the jirga have located,Robbery,evidence
+06_724_robbery,the tribunal dismissed its findings as to this as having no effect because the appellant,Robbery,action
+06_1263_robbery,Application was filed on 6 October 2005,Robbery,action
+06_1263_robbery,Section 235(4B) of the Act,Robbery,judgement_source
+06_1263_robbery,Migration Amendment Regulations 2006,Robbery,judgement_source
+06_1263_robbery,32A of the Migration Regulations 1994,Robbery,judgement_source
+06_1263_robbery,applicant's original Statement of Claim,Robbery,evidence
+06_1263_robbery,78B of the Judiciary Act 1903,Robbery,judgement_source
+06_1263_robbery,Such amount must be no more than the cost to the Commonwealth,Robbery,fine
+06_1263_robbery,Such costs include the daily maintenance amount,Robbery,fine
+06_1263_robbery,pay when they leave Villawood is approximately $130 per da,Robbery,fine
+06_1294_robbery,The appellants are husband and wife who are citizens of Fiji and are of Indian ethnicity.,Robbery,description
+06_1294_robbery,family home was invaded and the appellants robbed,Robbery,robbers
+06_1294_robbery,some of the property recovered,Robbery,evidence
+06_1294_robbery,robbed by masked men on returning from work,Robbery,robbers
+06_1294_robbery,robbed the appellants of jewellery,Robbery,stolen_items
+06_1294_robbery,"Fijians for his Indian ethnicity, Hindu religion",Robbery,description
+06_1294_robbery,ppellants filed an application in the Federal Magistrates Court of Australia,Robbery,action
+07_1031_murder,threatened by a breakaway faction,Murder,action
+07_1031_murder,his family received threats,Murder,affected_parties
+07_1031_murder,attacks from his political opponents,Murder,action
+07_1031_murder,corruption within the police force,Murder,cause
+07_1031_murder,someone was killed,Murder,injury
+07_1031_murder,collecting money from the people and threatening them,Murder,action
+07_1031_murder,influenced the police not to take any action,Murder,action
+07_1031_murder,provided the arrest warrants,Murder,action
+07_1031_murder,accusing him of killing someone,Murder,affected_parties
+07_1031_murder,accused him of murder,Murder,affected_parties
+07_1031_murder,accused of murder,Murder,affected_parties
+07_1031_murder,claimed he was pressured,Murder,description
+07_1031_murder,issued in order to harass him,Murder,motive
+07_1031_murder,There were many clashes,Murder,description
+07_1031_murder,some involvement in politics,Murder,description
+07_1031_murder,in relation to gaining support for the upcoming election,Murder,description
+07_1031_murder,noted inconsistencies in the appellant's evidence,Murder,evidence
+07_1031_murder,contrasts between his original application where he claimed to have been 'in pressure' from political opponents and his later claims,Murder,evidence
+07_1031_murder,he had been accused of murder and was wanted by authorities,Murder,description
+07_1031_murder,sued him for killing someone,Murder,injury
+07_1031_murder,does not accept that these warrants are credible,Murder,judgement_final
+07_1031_murder,did not show a well-founded fear of persecution,Murder,judgement_final
+07_1031_murder,s 424A of the Migration Act 1958 (Cth) (the Act),Murder,judgement_source
+07_1031_murder,inconsistency between the statement of the appellant with his protection visa application,Murder,evidence
+07_1031_murder,such pressure arose from him being sued by the BNP for murder,Murder,affected_parties
+07_1031_murder,SZEEU v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCAFC 2 ; (2006) 150 FCR 214 and s 424A(3)(b)),Murder,judgement_source
+07_1031_murder,SZDKK v Minister for Immigration and Multicultural and Indigenous Affairs [2005] FCA 1203 at [25] - [25],Murder,judgement_source
+07_1031_murder,SXSB v Minister for Immigration and Citizenship [2007] FCA 319 at [19],Murder,judgement_source
+07_1031_murder,NBKS v Minister for Immigration and Multicultural Affairs [2006] FCAFC 174,Murder,judgement_source
+07_1031_murder,oral evidence of the appellant was false,Murder,judgement_final
+07_1031_murder,the documents he was propounding were fraudulent,Murder,judgement_final
+07_1684_murder,under ss 15 and 17 of the extradition act,Murder,judgement_source
+07_1684_murder,where notice of receipt of extradition request has been found to be deficient in respect of certain paragraphs,Murder,evidence
+07_1684_murder,whether the notice is wholly or partly invalid,Murder,evidence
+07_1684_murder,eight warrants for his arrest,Murder,description
+07_1684_murder,s 16(1) of the Extradition Act 1988,Murder,judgement_source
+07_1684_murder,O 80 of the Federal Court Rules 2001,Murder,judgement_source
+07_1684_murder,suspected with probable cause' of having committed one or a number of offences,Murder,cause
+07_1684_murder,"nearly 100 fraud, company, accounting and tax offences",Murder,action
+07_1684_murder,provisionally arrested on 4 July 2006,Murder,judgement_final
+07_1684_murder,Minister for Aboriginal Affairs v Peko-Wallsend Limited [1986] HCA 40,Murder,judgement_source
+07_1684_murder,reflected actual charges which had been brought by the Finnish prosecution authorities against Mr Tervonen,Murder,evidence
+07_1684_murder,considered he ought be arrested,Murder,judgement_final
+07_1684_murder,Tervonen and others misled a number of parties ,Murder,action
+07_1684_murder,"They gained control of, and used a company, Teemun Purku",Murder,action
+07_1684_murder,Accounts were opened with an overdraft facility with several suppliers and service providers,Murder,action
+07_1684_murder,The goods and services were ordered from those companies using the name Teemu Liukkonen,Murder,action
+07_1684_murder,CDPP's summary suggested a connection between Mr Tervonen and others in misleading third parties,Murder,evidence
+07_1684_murder,attempted aggravated fraud,Murder,action
+07_1684_murder,five counts of aggravated forgery and two registration offences,Murder,action
+07_1684_murder,Under the Extradition (Foreign States) Act 1966,Murder,judgement_source
+07_1684_murder,Senator Johnston waived privilege that had previously been claimed over the whole of the dual criminality advice,Murder,judgement_final
+07_1684_murder,"they found 59,000 euros in 500 euro notes in an envelope together with a SIM card",Murder,description
+07_1684_murder,A fingerprint of Mr Siira was found on one of the euro notes in the envelope,Murder,evidence
+07_1684_murder,"when the briefcase was seized during execution of the warrant, it contained correspondence relating to Mr Tervonen and his woman friend",Murder,evidence
+07_1684_murder,a telephone conversation between Mr Tervonen and his brother Mika was intercepted in which they discussed a briefcase and the previous destruction of documents it had contained,Murder,evidence
+07_1684_murder,"The email noted that the 2,000 euros had been sent before any fraud had taken place",Murder,evidence
+07_1684_murder,Another email reported on some of the evidence collected using code names together with 'the real names' of Mr S&ouml;derqvist and Mr Raappana,Murder,evidence
+07_1778_murder,applied for a protection class (XA) visa,Murder,action
+07_1778_murder,application was refused by a delegate of the Minister for Immigration and Citizenship,Murder,judgement_final
+07_1778_murder,his brother-in-law was suspected to be involved in the murders,Murder,action
+07_1778_murder,"Hindu leader, Murugun",Murder,affected_parties
+07_1778_murder,"wife of another Hindu leader, Muttu Krishnan",Murder,affected_parties
+07_1778_murder,"another Hindu leader, Mr Suresh",Murder,affected_parties
+07_1778_murder,stabbed,Murder,action
+07_1778_murder,His house was set alight by Hindus while he and his family slept,Murder,injury
+07_1778_murder,evidence he could provide in the criminal case against Jafarullah,Murder,motive
+07_1778_murder,evidence regarding this group to be vague and lacking in detail,Murder,evidence
+07_1778_murder,Tribunal does not accept the applicant's brother-in-law was implicated in the murder of Muttu Krishanan's wife,Murder,judgement_final
+07_1778_murder,Tribunal does not accept the applicant's claims that he would be targeted by this alleged group,Murder,judgement_final
+07_1778_murder,finds the applicant's fears of persecution are not well-founded,Murder,judgement_final
+07_1778_murder,under section424A of the Act,Murder,judgement_source
+07_1778_murder,Tribunal rejected those reasons,Murder,judgement_final
+07_1778_murder,s 424A of the Migration Act 1958,Murder,judgement_source
+07_1778_murder,NABE v Minister for Immigration and Multicultural and Indigenous Affairs (No 2) [2004] FCAFC 263 ; (2004) 144 FCR 1,Murder,judgement_source
+07_1778_murder,appeal must be dismissed,Murder,judgement_final
+07_1778_murder,appropriate to dismiss it with costs,Murder,judgement_final
+08_199_murder,s 501(2) of the Migration Act 1958,Murder,judgement_source
+08_199_murder,cancel the applicant's Transitional (Permanent) BF-C visa,Murder,judgement_final
+08_199_murder,"applicant, a Vietnamese citizen, had been convicted of murder and attempted murder on 15 December 1989",Murder,cause
+08_199_murder,sentenced to penal servitude for life,Murder,judgement_final
+08_199_murder,"s 75(v) of the Constitution : Migration Act , s 476(1)",Murder,judgement_source
+08_199_murder,malicious wounding,Murder,action
+08_199_murder,sentenced to twelve months periodic detention,Murder,judgement_final
+08_199_murder,assault,Murder,action
+08_199_murder,carrying a fire arm under the influence of alcohol,Murder,action
+08_199_murder,sentenced to three months imprisonment and fined,Murder,judgement_final
+08_199_murder,involved in a shooting in a restaurant,Murder,action
+08_199_murder,wounding with intent to murder,Murder,action
+08_199_murder,"applicant should be sentenced to 21 years imprisonment in respect of his conviction for murder, with a minimum term of 16 years",Murder,judgement_final
+08_199_murder,Nystrom v Minister for Immigration [2005] FCAFC 121 ; (2005) 143 FCR 420,Murder,judgement_source
+08_199_murder,Minister for Immigration v Nystrom [2006] HCA 50 ; (2006) 230 ALR 370,Murder,judgement_source
+08_199_murder,cancelled the applicant's visa,Murder,judgement_final
+08_199_murder,extent of the disruption that would be caused to the applicant and his family in Australia by his removal to Vietnam,Murder,affected_parties
+08_199_murder,applicant had two adult children in Australia,Murder,affected_parties
+08_199_murder,Migration Act s 474(1) ; Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476,Murder,judgement_source
+08_199_murder,applicant must pay the Minister's costs,Murder,judgement_final
+08_199_murder,"Federal Court Rules (' FCR '), O 62 r 5(a)",Murder,judgement_source
+08_199_murder,"sum of $5,500 as the amount of the costs to be allowed",Murder,judgement_final
+08_256_murder,application was refused by a delegate of the Minister in January 2004,Murder,judgement_final
+08_256_murder,he was an active member of the Freedom Party in Bangladesh,Murder,description
+08_256_murder,harassed by his political opponents,Murder,action
+08_256_murder,falsely charged with murdering a leader of the Awami League,Murder,action
+08_256_murder,targeted by Muslim fundamentalists by reason of being married to a Christian girl,Murder,affected_parties
+08_256_murder,decision not to grant a protection visa,Murder,judgement_final
+08_256_murder,SZEXR v Minister for Immigration &amp; Citizenship [2007] FMCA 1856,Murder,judgement_source
+08_256_murder,Part 7 of the Migration Act 1958,Murder,judgement_source
+08_256_murder,"SZFDE v Minister for Immigration &amp; Citizenship [2007] HCA 35 at [30] , [2007] HCA 35 ; 237 ALR 64",Murder,judgement_source
+08_256_murder,"Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v Lay Lat [2006] FCAFC 61 at [66] , [2006] FCA 61 ; 151 FCR 214 at 225",Murder,judgement_source
+08_256_murder,one of the front side leaders of the Awami League was murdered,Murder,injury
+08_256_murder,purported court documents he submitted stating that it took place in January 1998,Murder,evidence
+08_256_murder,protection visa application contains a reference to the murder having been committed in January 1998,Murder,evidence
+08_256_murder,"do not accept that the Applicant did, in fact live in hiding in the nine months before he left Bangladesh",Murder,judgement_final
+08_256_murder,fact that he stayed on in Bangladesh for this nine month,Murder,evidence
+08_256_murder,"Minister for Immigration &amp; Multicultural Affairs; Ex parte Durairajasingham [2000] HCA 1 at [67] , 168 ALR 407 at 423 per McHugh J",Murder,judgement_source
+08_256_murder,"s 424A(1): SZBYR v Minister for Immigration &amp; Citizenship [2007] HCA 26 at [18] , [2007] FCA 26 ; 235 ALR 609 at 616 per Gleeson CJ, Gummow, Callinan, Heydon and Crennan JJ",Murder,judgement_source
+08_256_murder,Coulton v Holcombe [1986] HCA 33 ; (1986) 162 CLR 1,Murder,judgement_source
+08_256_murder,Appeal dismissed,Murder,judgement_final
+08_256_murder,Appellant to pay the costs of the First Respondent of and incidental to the appeal,Murder,judgement_final
+08_331_murder,s 16 of the Extradition Act 1988,Murder,judgement_source
+08_331_murder,Applicant agreed with a Mr Michael Schmeer to find someone who would be prepared to murder their former wives,Murder,description
+08_331_murder,attempted incitement to murder,Murder,action
+08_331_murder,sections 211 and 30 of the German Criminal Code,Murder,judgement_source
+08_331_murder,Applicant was to be surrendered to Germany and that a warrant had been issued for his surrender,Murder,judgement_final
+08_331_murder,he ought be arrested,Murder,judgement_final
+08_331_murder,Mr Karsten sought to challenge the decision of the magistrate,Murder,action
+08_331_murder,conclusion as to an abuse of process,Murder,judgement_final
+08_331_murder,Evidence of an ambivalent character,Murder,evidence
+08_331_murder,"Application filed on 17 July 2007, as amended by way of a Further Amended Application filed on 7 November 2007, be dismissed",Murder,judgement_final
+08_331_murder,Applicant to pay the costs of the Second Respondent,Murder,judgement_final
+08_716_murder,applied to the Department of Immigration and Citizenship for a Protection (Class XA) Visa,Murder,action
+08_716_murder,refused to grant that visa,Murder,judgement_final
+08_716_murder,SZLRL v Minister for Immigration &amp; Citizenship [2008] FMCA 196,Murder,judgement_source
+08_716_murder,murder or attempted murder,Murder,action
+08_716_murder,drug smuggling,Murder,action
+08_716_murder,applicant has embellished his claims for the purpose of enhancing his claims for a protection visa,Murder,judgement_final
+08_716_murder,he is not a credible witness,Murder,witness
+08_716_murder,"well founded fear of persecution from the authorities, fanatic Muslim thugs, and CPI(M) politicians",Murder,affected_parties
+08_716_murder,"constantly threatened with abduction and death by Muslims, CPI(M) politicians, and thugs",Murder,affected_parties
+08_716_murder,had to hide in many different parts of India before leaving,Murder,action
+08_716_murder,he has had disputes and conflict with other fishermen in the area where he lives,Murder,description
+08_716_murder,applicant is a Christian,Murder,description
+08_716_murder,Application for Leave to Appeal is refused,Murder,judgement_final
+08_716_murder,Applicant to pay the costs of the First Respondent fixed in the sum of $800,Murder,judgement_final
+09_1526_robbery,s 501 of the Migration Act 1958,Robbery,judgement_source
+09_1526_robbery,Ebner v Official Trustee in Bankruptcy [2000] HCA 63 ; (2000) 205 CLR 337 at [6],Robbery,judgement_source
+09_1526_robbery,aggravated robbery of a service station in Kambah,Robbery,description
+09_1526_robbery,"sentenced to 4 years imprisonment with a non-parole period of 18 months, with a release date of 21 February 2007",Robbery,judgement_final
+09_1526_robbery,in company of another person,Robbery,robbers
+09_1526_robbery,he entered Domino's Pizza in Mawson and threatened two employees with a large kitchen knife,Robbery,description
+09_1526_robbery,cash register drawer containing $600.00,Robbery,stolen_items
+09_1526_robbery,arrested and charged with aggravated burglary,Robbery,judgement_final
+09_1526_robbery,evidence that the applicant had been identified as the likely perpetrator,Robbery,evidence
+09_1526_robbery,made a telephone call to his co-accused to arrange a visit of one of the people referred to in his alibi,Robbery,evidence
+09_1526_robbery,Mizan Ul Rahman Islam,Robbery,robbers
+09_1526_robbery,section 12B of the Australian Federal Police Act 1979,Robbery,judgement_source
+09_1526_robbery,released on bail by the ACT Supreme Court,Robbery,judgement_final
+09_1526_robbery,arrested and charged with being in breach of his bail conditions,Robbery,judgement_final
+09_1526_robbery,refuse the applicant's visa application,Robbery,judgement_final
+09_1526_robbery,Minister for Immigration and Multicultural and Indigenous Affairs; ex parte Lam [2003] HCA 6 ; (2003) 214 CLR 1 at [38],Robbery,judgement_source
+09_1526_robbery,decision of the Tribunal be set aside,Robbery,judgement_final
+09_1526_robbery,matter be remitted to the Tribunal to be determined according to law,Robbery,judgement_final
+09_1526_robbery,first respondent pay the applicant's costs of the application,Robbery,judgement_final

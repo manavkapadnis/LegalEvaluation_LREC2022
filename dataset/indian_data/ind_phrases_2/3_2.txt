@@ -1,0 +1,20 @@
+conviction of the appellant 0 21 11 10
+murder of his wife 0 22 3 4
+addicted to liquor 0 31 9 3
+used to quarrel with the deceased 0 31 13 6
+by means of an axe 1 2 8 5
+saw the dead body 1 2 14 4
+in a pool of blood 1 3 9 5
+bleeding injuries on her neck 1 3 15 5
+accused was found on the spot 1 4 3 6
+taken in custody and then arrested 1 9 11 6
+blood stained clothes 1 9 18 3
+found smeared with blood 1 11 5 4
+sent for medical examination 1 11 12 4
+statements of the witnesses 1 15 0 4
+forwarded for autopsy 1 15 11 3
+sentenced him for life imprisonment 1 30 18 5
+accused was found on the spot 2 8 12 6
+this shows motive of the accused 2 14 2 6
+based on circumstantial evidence 3 27 8 4
+

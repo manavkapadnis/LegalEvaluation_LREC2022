@@ -1,0 +1,14 @@
+bombay tenancy and agricultural lands act 0 21 12 6
+claiming to be tenant 0 22 8 4
+admeasuring 88 acres 0 23 5 3
+lying and situated at village 0 24 5 5
+tenant in the disputed lands 0 25 16 5
+took possession of the lands 0 26 16 5
+allowed to occupy the house 0 28 8 5
+agricultural lands tribunal 0 30 2 3
+maharashtra revenue tribunal 1 3 11 3
+in respect of old survey no 1 4 13 6
+landlord have failed to dispel the contention 1 10 12 7
+allowed to occupy the house 2 20 9 5
+manger in the land 2 21 0 3
+transfer of properties act 2 22 1 4

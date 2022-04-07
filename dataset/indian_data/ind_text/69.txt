@@ -1,0 +1,734 @@
+for educational use only
+Reportable
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 673 OF 2012
+SOUTH EAST ASIA MARINE
+ENGINEERING AND CONSTRUCTIONS
+LTD. (SEAMEC LTD.)
+
+...APPELLANT
+
+VERSUS
+OIL INDIA LIMITED
+
+…RESPONDENT
+With
+
+CIVIL APPEAL NO. 900 OF 2012
+OIL INDIA LIMITED
+
+...APPELLANT
+VERSUS
+
+SOUTH EAST ASIA MARINE
+ENGINEERING AND CONSTRUCTIONS
+LTD. (SEAMEC LTD.)
+
+…RESPONDENT
+
+JUDGMENT
+N. V. RAMANA, J.
+Civil Appeal No. 673 of 2012
+Signature Not Verified
+
+1. The present appeal arises out of impugned judgment and order
+
+Digitally signed by
+GEETA AHUJA
+Date: 2020.05.11
+15:37:43 IST
+Reason:
+
+dated 13.12.2007 in Arbitration Appeal No. 11 of 2006 passed
+1
+
+by the Gauhati High Court, wherein the High Court allowed
+the appeal preferred by the Respondent under Section 37 of
+the Arbitration and Conciliation Act, 1996 (hereinafter the
+“Arbitration Act”), and set aside the arbitral award dated
+19.12.2003.
+2. Brief facts necessary for the disposal of this case are as
+follows:
+
+appellant
+
+was
+
+awarded
+
+the
+
+work
+
+order
+
+dated
+
+20.07.1995 pursuant to a tender floated by the Respondent in
+1994. The contract agreement was for the purpose of well
+drilling and other auxiliary operations in Assam, and the same
+was effectuated from 05.06.1996. Although, the contract was
+initially only for a period of two years, the same was extended
+for two successive periods of one year each by mutual
+agreement, and finally the contract expired on 04.10.2000.
+3. During the subsistence of the contract, the prices of High­
+Speed Diesel (“HSD”), one of the essential materials for
+carrying out the drilling operations, increased. Appellant
+raised a claim that increase in the price of HSD, an essential
+component for carrying out the contract triggered the “change
+in law” clause under the contract (i.e., Clause 23) and the
+Respondent became liable to reimburse them for the same.
+2
+
+When the Respondent kept on rejecting the claim, the
+Appellant eventually invoked the arbitration clause vide letter
+dated 01.03.1999. The dispute was referred to an Arbitral
+Tribunal comprising of three arbitrators.
+4. On 19.12.2003, the Arbitral Tribunal issued the award in A.P
+No. 8 of 1999. The majority opinion allowed the claim of the
+Appellant and awarded a sum of Rs. 98,89,564.33 with
+interest @10% per annum from the date of the award till the
+recovery of award money. The amount was subsequently
+revised to Rs. 1,32,32,126.36 on 11.03.2005. The Arbitral
+Tribunal held that while an increase in HSD price through a
+circular issued under the authority of State or Union is not a
+“law” in the literal sense, but has the “force of law” and thus
+falls within the ambit of Clause 23. On the other hand, the
+minority held that the executive orders do not come within the
+ambit of Clause 23 of the Contract.
+5. Aggrieved by the award, the Respondent challenged the same
+under Section 34 of the Arbitration Act before the District
+Judge. On 04.07.2006, the learned District Judge, upheld the
+award and held that the findings of the tribunal were not
+3
+
+without basis or against the public policy of India or patently
+illegal and did not warrant judicial interference.
+6. The Respondent challenged the order of the District Judge by
+filing an appeal under Section 37 of the Arbitration Act, before
+the High Court. By the impugned judgment, the High Court,
+allowed the appeal and set aside the award passed by the
+Arbitral Tribunal.
+7. The High Court held that the interpretation of the terms of the
+contract by the Arbitral Tribunal is erroneous and is against
+the public policy of India. On the scope of judicial review under
+Section 37 of the Arbitration Act, the High Court held that the
+Court had the power to set aside the award as it was passed
+overlooking the terms and conditions of the contract. Aggrieved
+by the same, the appellant has filed this present appeal by the
+way of special leave petition against the impugned judgment.
+8. Learned Counsel for the Appellant assailing the impugned
+order contends that
+a. The High Court has imparted its own personal view as to
+the intent for inclusion of Clause 23 and has sat in
+appeal over the award of the Arbitral Tribunal. The
+4
+
+construction of Clause 23, he submitted, is a matter of
+interpretation and has been correctly interpreted by the
+Arbitral Tribunal based on the authorities cited before it.
+b. If two views are possible on a question of law, the High
+Court cannot substitute one view and deference should
+be given to the plausible view of the Arbitral Tribunal.
+Learned counsel has relied upon a judgment of this Court
+in McDermott International Inc. v. Burn Standard Co.
+Ltd. [(2006) 11 SCC 181] to support his contention.
+c. The question of law decided by the Arbitral Tribunal is
+beyond judicial review and thus the High Court could not
+have interfered with a reasoned award which was neither
+against public policy of India nor patently illegal.
+9. In
+
+response,
+
+the
+
+learned
+
+counsel
+
+for
+
+the
+
+Respondent,
+
+supporting the findings of the High Court, submits that
+a. the award passed by the Arbitral Tribunal is contrary to
+the terms of the contract and essentially re­writes the
+contract. The Arbitral Tribunal has to adjudicate the
+dispute within the four corners of the contract and thus
+awarding additional reimbursement not contemplated
+under Clause 23 is perverse and patently illegal.
+b. Overlooking the terms and conditions of a contract is
+violative of Section 28 of the Arbitration Act and thus the
+tribunal has exceeded its jurisdiction.
+5
+
+c. This is not a case where the Arbitral Tribunal accepted
+one interpretation of the terms of the contract where two
+interpretations were possible. Findings of the Tribunal
+are perverse and unreasonable as the Tribunal did not
+consider the contract as a whole and failed to follow the
+cardinal principle of interpretation of contract.
+d. The Arbitral Tribunal has re­written the contract in the
+guise of interpretation and such interpretation being in
+conflict with the terms of the contract, is in conflict with
+the public policy of India.
+10. We have heard the learned counsels for the parties and
+perused the materials on record.
+11. In order to answer the questions raised in this appeal we first
+need to delve into the ambit and scope of the court’s
+jurisdiction under Section 34 of the Arbitration Act. Section 34
+of the Arbitration Act provides as under –
+34. Application for setting aside arbitral award. — (1)
+Recourse to a Court against an arbitral award may be made
+only by an application for setting aside such award in
+accordance with sub­section (2) and sub­section (3).
+(2) An arbitral award may be set aside by the Court only if—
+(a) the party making the application furnishes proof that—
+(i) a party was under some incapacity, or
+(ii) the arbitration agreement is not valid under
+the law to which the parties have subjected it or,
+6
+
+failing any indication thereon, under the law for
+the time being in force; or
+(iii) the party making the application was not
+given proper notice of the appointment of an
+arbitrator or of the arbitral proceedings or was
+otherwise unable to present his case; or
+(iv) the arbitral award deals with a dispute not
+contemplated by or not falling within the terms of
+the submission to arbitration, or it contains
+decisions on matters beyond the scope of the
+submission to arbitration:
+Provided that, if the decisions on matters
+submitted to arbitration can be separated from
+those not so submitted, only that part of the
+arbitral award which contains decisions on
+matters not submitted to arbitration may be set
+aside; or
+(v) the composition of the arbitral tribunal or the
+arbitral procedure was not in accordance with the
+agreement of the parties, unless such agreement
+was in conflict with a provision of this Part from
+which the parties cannot derogate, or, failing
+such agreement, was not in accordance with this
+Part; or
+(b) the Court finds that—
+(i) the subject­matter of the dispute is not capable
+of settlement by arbitration under the law for the
+time being in force, or
+(ii) the arbitral award is in conflict with the public
+policy of India.
+Explanation. —Without prejudice to the generality of
+sub­clause (ii) it is hereby declared, for the avoidance
+of any doubt, that an award is in conflict with the
+public policy of India if the making of the award was
+
+7
+
+induced or affected by fraud or corruption or was in
+violation of section 75 or section 81.
+(3) An application for setting aside may not be made after
+three months have elapsed from the date on which the party
+making that application had received the arbitral award or,
+if a request had been made under section 33, from the date
+on which that request had been disposed of by the arbitral
+tribunal: Provided that if the Court is satisfied that the
+applicant was prevented by sufficient cause from making
+the application within the said period of three months it
+may entertain the application within a further period of
+thirty days, but not thereafter.
+(4) On receipt of an application under sub­section (1), the
+Court may, where it is appropriate and it is so requested by
+a party, adjourn the proceedings for a period of time
+determined by it in order to give the arbitral tribunal an
+opportunity to resume the arbitral proceedings or to take
+such other action as in the opinion of arbitral tribunal will
+eliminate the grounds for setting aside the arbitral award.
+
+12. It is a settled position that a Court can set aside the award
+only on the grounds as provided in the Arbitration Act as
+interpreted by the Courts. Recently, this Court in Dyna
+Technologies Pvt. Ltd. v. Crompton Greaves Ltd. [2019 SCC
+Online SC 1656] laid down the scope of such interference. This
+Court observed as follows­
+“26. There is no dispute that Section 34 of
+the Arbitration Act limits a challenge to an
+award only on the grounds provided therein
+or as interpreted by various Courts. We need
+to be cognizant of the fact that arbitral
+8
+
+awards should not be interfered with in a
+casual and cavalier manner, unless the
+Court comes to a conclusion that the
+perversity of the award goes to the root of
+the matter without there being a
+possibility of alternative interpretation
+which may sustain the arbitral award.
+Section 34 is different in its approach and
+cannot be equated with a normal appellate
+jurisdiction. The mandate under Section 34
+is to respect the finality of the arbitral award
+and the party autonomy to get their dispute
+adjudicated by an alternative forum as
+provided under the law. If the Courts were to
+interfere with the arbitral award in the usual
+course on factual aspects, then the
+commercial wisdom behind opting for
+alternate dispute resolution would stand
+frustrated.”
+(emphasis supplied)
+13. It is also settled law that where two views are possible, the
+Court cannot interfere in the plausible view taken by the
+arbitrator supported by reasoning. This Court in Dyna
+Technologies (supra) observed as under­
+“27. Moreover, umpteen number of judgments
+of this Court have categorically held that the
+Courts should not interfere with an award
+merely because an alternative view on facts
+and interpretation of contract exists. The
+Courts need to be cautious and should defer
+to the view taken by the Arbitral Tribunal
+even if the reasoning provided in the award
+is implied unless such award portrays
+9
+
+perversity unpardonable under Section 34
+of the Arbitration Act.”
+(emphasis supplied)
+14.
+
+However, the question in the present case is whether the
+interpretation provided to the contract in the award of the
+Tribunal was reasonable and fair, so that the same passes the
+muster under Section 34 of the Arbitration Act?
+
+15. In the present case, respondent has argued that the view
+taken by the Arbitral Tribunal was not even a possible
+interpretation, therefore the award being unreasonable and
+unfair suffers from perversity. Hence, the respondent has
+pleaded that the award ought to be set aside. In this context,
+we may state that usually the Court is not required to examine
+the merits of the interpretation provided in the award by the
+arbitrator,
+
+if
+
+it
+
+comes
+
+to
+
+a
+
+conclusion
+
+that
+
+such
+
+an
+
+interpretation was reasonably possible.
+16. We begin by looking at the clause, i.e Clause 23 which is
+extracted below:
+SUBSEQUENTLY ENACTED LAWS: ­
+Subsequent to the date of price of Bid
+Opening if there is a change in or
+enactment of any law or interpretation of
+10
+
+existing law, which results in additional
+cost/reduction in cost to Contractor on
+account of the operation under the
+Contract,
+the
+Company/Contractor
+shall
+reimburse/pay
+Contractor/Company
+for
+such
+additional/reduced
+cost
+actually
+incurred.
+
+17. The Arbitral Tribunal held that this clause must be liberally
+construed and any circular of the Government of India would
+amount to a change in law. The Arbitral Tribunal observed:
+“According to Rule of Construction of any
+document harmonious approach should
+be made reading or taking the document
+as a whole and exclusion should not be
+readily inferred unless it is clearly stated
+in the particular clause of the document.
+This is according to Rule of Interpretation.
+A consistent interpretation should be
+given with a view to smooth working of the
+system, which the document purports to
+regulate. The word, which makes it
+inconsistent or unworkable, should be
+avoided. This is known as beneficial
+construction and a construction should be
+made which suppress the mischief and
+advance the remedies. So, the increase in
+the operational cost due to enhanced price
+of the diesel is one of the subject matters
+of the contract as enshrined in Cl. 23. It
+may be said that Cl. 23 may be termed as
+‘‘Habendum Clause”. In the deed of the
+contract containing various granting
+clauses and the habendum signifying the
+intention of, the grantor.
+11
+
+That Cl. 23 requires liberal interpretation
+for interpreting the expression ‘law’ or
+change in law etc. will also be evident
+from the facts that the respondents Oil
+India Ltd. through its witness Mr. Pasrija
+has clearly stated that the change in
+diesel price or any other oil price was
+never done and by way of any statutory
+enactment either by Parliament or by
+State Legislature So, it is clear that at the
+time when the Cl. 23 was incorporated in
+the agreement the Oil India Ltd. was very
+much aware that change in oil price was
+never made by any Statutory Legislation
+but only by virtue of Government Order,
+Resolution, Instruction, as the case may
+be, on accepting that a condition of the
+appropriate committee namely O.P.C. it is
+also clear to apply when there is change in
+oil price, here HSD, by the Government
+and its statutory authority as enacted in
+the above without resorting any statutory
+enactment.
+Therefore
+that
+the
+interpretation of expression ‘law’ or
+change in law etc. requires this extended
+meaning to include the statutory law, or
+any order, instruction and resolution
+issued by the Central Government in its
+Ministry of Petroleum and Natural Gas.”
+The majority award utilizes ‘liberal interpretation rule’ to
+construe the contract, so that the price escalation of HSD
+could be brought under the Clause 23 of the contract. Further
+the Arbitral Tribunal identifies the aforesaid clause to be a
+
+12
+
+‘Habendum Clause’, wherein the rights granted to the
+appellant are required to be construed broadly.
+18. On the other hand, the High Court in the impugned order,
+interpreted the same clause as follows:
+“27…I am of the firm view that clause 23
+was inserted in the agreement to meet
+such
+uncertain
+and
+unforeseen
+eventualities and certainly not for revising
+a fixed rate of contract. I also find that
+both parties had agreed to keep “force
+majeure” clause in the agreement. Under
+this doctrine of commercial law, a
+contract agreement can be rescinded for
+acts of God, etc. Under clause 44.3 of the
+agreement, ‘force majeure” has been
+clearly defined, which includes acts and
+regulations of the Government to rescind
+a contract. In this way, clause 23 is very
+close and akin to the “force majeure
+clause”. Besides this, I may also declare
+that clause 23 is pari materia to the
+“doctrine of frustration and supervening
+impossibility”. In other words, under
+clause 23 rights and obligations of both
+the parties have been saved due to any
+change in the existing law or enactment
+of a new law or on the ground of new
+interpretation of the existing law. In my
+opinion, clause 23 must have been made
+a part of the agreement keeping in mind
+section 56 of the Indian Contract Act,
+1872 sans any other intention.”
+
+13
+
+19. The High Court, in its reasoning, suggests that Clause 23 is
+akin to a force majeure clause. We need to understand the
+utility and implications of a force majeure clause. Under Indian
+contract law, the consequences of a force majeure event are
+provided for under Section 56 of the Contract Act, which states
+that on the occurrence of an event which renders the
+performance impossible, the contract becomes void thereafter.
+Section 56 of the Contract Act stands as follows:
+56. Agreement to do impossible act.—An
+agreement to do an act impossible in itself is
+void.
+Contract to do act afterwards becoming
+impossible or unlawful—A contract to do an
+act which, after the contract is made, becomes
+impossible, or, by reason of some event which
+the promisor could not prevent, unlawful,
+becomes void when the act becomes
+impossible or unlawful.
+20. When the parties have not provided for what would take place
+when an event which renders the performance of the contract
+impossible, then Section 56 of the Contract Act applies. When
+the act contracted for becomes impossible, then under Section
+56, the parties are exempted from further performance and the
+
+14
+
+contract becomes void. As held by this Court in Satyabrata
+Ghose v. Mugneeram Bangur & Co., AIR 1954 SC 44:
+“15. These differences in the way of
+formulating legal theories really do not concern
+us so long as we have a statutory provision in
+the Indian Contract Act. In deciding cases in
+India the only doctrine that we have to go by is
+that of supervening impossibility or illegality as
+laid down in Section 56 of the Contract Act,
+taking the word “impossible” in its practical
+and not literal sense. It must be borne in
+mind, however, that Section 56 lays down a
+rule of positive law and does not leave the
+matter to be determined according to the
+intention of the parties.”
+(emphasis supplied)
+However, there is no doubt that the parties may instead
+choose the consequences that would flow on the happening of
+an uncertain future event, under Section 32 of the Contract
+Act.
+21. On the other hand, the common law at one point interpreted
+the consequence of such frustration to fall on the party who
+sustained loss before the frustrating event. The best example
+of such an interpretation can be seen in the line of cases
+which came to be known as ‘coronation cases’. In Chandler v.
+Webster, [1904] 1 KB 493, Mr. Chandler rented space from
+15
+
+Mr. Webster for viewing the coronation procession of King
+Edward VII to be held on 26 th June 1902. Mr. Chandler had
+paid part consideration for the same. However, due to the King
+falling ill, the coronation was postponed. As Mr. Webster
+insisted on payment of his consideration, the case was brought
+to the Court. The Court of Appeals rejected the claims of both
+Mr. Chandler as well as Mr. Webster. The essence of the ruling
+was that once frustration of contract happens, there cannot be
+any enforcement and the loss falls on the person who
+sustained it before the force majeure took place.
+22. This formulation was over­ruled by the House of Lords in the
+historic decision of Fibrosa Spolka Akcyjna v. Fairbairn
+Lawson Combe Barbour Ltd., [1942] UKHL 4, wherein the
+harsh consequences of frustration as per the old doctrine was
+moderated by the introduction of the law of restitution.
+Interestingly,
+(Shipbuilding
+
+Shaw
+
+in
+
+Cantiare
+
+Company)
+
+v.
+
+Clyde
+
+Lord
+
+San
+
+Rocco
+
+Shipbuilding
+
+SA
+and
+
+Engineering Co. Ltd., [1924] AC 226, had observed that
+English law of leaving the loss to where it fell unless the
+contract provided otherwise was, he said, appropriate only
+16
+
+‘among tricksters, gamblers and thieves’. The UK Parliament
+took notice of the aforesaid judgment and legislated Law
+Reform (Frustrated Contracts) Act, 1943.
+23. In India, the Contract Act had already recognized the harsh
+consequences of such frustration to some extent and had
+provided for a limited mechanism to ameliorate the same
+under Section 65 of the Contract Act. Section 65 provides as
+under:
+65. Obligation of person who has received
+advantage under void agreement, or
+contract that becomes void
+When an agreement is discovered to be void, or
+when a contract becomes void, any person who
+has received any advantage under such
+agreement or contract is bound to restore it, or
+to make compensation for it to the person from
+whom he received it.
+
+The aforesaid clause provides the basis of restitution for
+‘failure of basis’. We are cognizant that the aforesaid provision
+addresses limited circumstances wherein an agreement is void
+ab initio or the contract becomes subsequently void.
+24. Coming back to the case, the contract has explicitly recognized
+force majeure events in Clause 44.3 in the following manner:
+17
+
+For purpose of this clause “Force Majeure”
+means an act of God, war, revolt, riots, strikes,
+bandh, fire, flood, sabotage, failure or
+destruction of roads, systems and acts and
+regulations of the Government of India and
+other clauses (but not due to employment
+problem of the contractor) beyond the
+reasonable control of the parties.
+
+Further, under Clause 22.23, the parties had agreed for a
+payment of force majeure rate to tide over any force majeure
+event, which is temporary in nature.
+25. Having regards to the law discussed herein, we do not
+subscribe to either the reasons provided by the Arbitral
+Tribunal or the High Court. Although, the Arbitral Tribunal
+correctly held that a contract needs to be interpreted taking
+into consideration all the clauses of the contract, it failed to
+apply the same standard while interpreting Clause 23 of the
+Contract.
+26. We also do not completely subscribe to the reasoning of the
+High Court holding that Clause 23 was inserted in furtherance
+of the doctrine of frustration. Rather, under Indian contract
+law, the effect of the doctrine of frustration is that it discharges
+all the parties from future obligations. In order to mitigate the
+18
+
+harsh consequences of frustration and to uphold the sanctity
+of the contract, the parties with their commercial wisdom,
+chose to mitigate the risk under Clause 23 of the contract.
+27. Our attention was drawn to Sumitomo Heavy Industries
+Limited v. Oil and Natural Gas Corporation Limited,
+(2010) 11 SCC 296, where this Court interpreted an indemnity
+clause and found that an additional tax burden could be
+recovered under such clause. Based on an appreciation of the
+evidence, the Court ruled that additional tax burden could be
+recovered under the clause as such an interpretation was a
+plausible view that a reasonable person could take and
+accordingly sustained the award. However, we are of the
+opinion that the aforesaid case and ratio may not be applicable
+herein as the evidence on record does not suggest that the
+parties had agreed to a broad interpretation to the clause in
+question.
+28. In this context, the interpretation of Clause 23 of the Contract
+by the Arbitral Tribunal, to provide a wide interpretation
+cannot be accepted, as the thumb rule of interpretation is that
+the document forming a written contract should be read as a
+whole and so far as possible as mutually explanatory. In the
+19
+
+case at hand, this basic rule was ignored by the Tribunal while
+interpreting the clause.
+29. The contract was entered into between the parties in
+furtherance of a tender issued by the Respondent herein. After
+considering the tender bids, the Appellant issued a Letter of
+Intent. In furtherance of the Letter of Intent, the contract
+(Contract No. CCO/FC/0040/95) was for drilling oil wells and
+auxiliary operations. It is important to note that the contract
+price was payable to the ‘contractor’ for full and proper
+performance of its contractual obligations. Further, Clauses
+14.7 and 14.11 of the Contract states that the rates, terms and
+conditions were to be in force until the completion or
+abandonment of the last well being drilled.
+30. From the aforesaid discussion, it can be said that the contract
+was based on a fixed rate. The party, before entering the
+tender process, entered the contract after mitigating the risk of
+such an increase. If the purpose of the tender was to limit the
+risks of price variations, then the interpretation placed by the
+Arbitral Tribunal cannot be said to be possible one, as it would
+completely defeat the explicit wordings and purpose of the
+contract. There is no gainsaying that there will be price
+20
+
+fluctuations which a prudent contractor would have taken into
+margin, while bidding in the tender. Such price fluctuations
+cannot be brought under Clause 23 unless specific language
+points to the inclusion.
+31. The interpretation of the Arbitral Tribunal to expand the
+meaning of Clause 23 to include change in rate of HSD is not a
+possible interpretation of this contract, as the appellant did
+not introduce any evidence which proves the same.
+32. The
+
+other
+
+contractual
+
+terms
+
+also
+
+suggest
+
+that
+
+the
+
+interpretation of the clause, as suggested by the Arbitral
+Tribunal, is perverse. For instance, Item 1 of List II
+(Consumables) of Exhibit C
+
+(Consolidated Statement
+
+of
+
+Equipment and Services Furnished by Contractor or Operator
+for the Onshore Rig Operation), indicates that fuel would be
+supplied by the contactor, at his expense. The existence of
+such a clause shows that the interpretation of the contract by
+the Arbitral Tribunal is not a possible interpretation of the
+contract.
+33. For the aforesaid reasons, we are not inclined to interfere with
+the impugned judgment and order of the High Court setting
+
+21
+
+aside the award. The appeal is accordingly dismissed. There
+shall be no order as to costs.
+CIVIL APPEAL NO. 900
+
+OF
+
+2012
+
+34. In view of the judgment pronounced in C.A. No. 673 of 2012,
+the aforesaid matter is disposed of in the aforesaid terms.
+
+..............................................J.
+(N.V. RAMANA)
+
+..............................................J.
+(MOHAN M. SHANTANAGOUDAR)
+
+..............................................J.
+(AJAY RASTOGI)
+NEW DELHI;
+MAY 11, 2020.
+
+22
+
+

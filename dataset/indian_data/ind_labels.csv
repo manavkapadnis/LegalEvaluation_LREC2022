@@ -1,0 +1,94 @@
+file_number,old_class,new_class,duration(in years and months/ days)
+1,Murder,Murder,2yrs and 6m
+2,Murder,Murder,7yrs and 8m
+3,Murder,Murder,4yrs and 7m
+4,Murder,Murder,1yr and 8m
+5,Murder,Murder,10 yrs and 4m
+6,Murder,Murder,9 yrs and 10m
+7,Murder,Murder,10yrs and 9m
+8,Murder,Murder,4yr and 10m
+9,Murder,Murder,1yr and 2m
+10,Murder,Murder,7yrs an 8m
+11,Robbery,Robbery,4yrs and 3m
+12,Robbery,Robbery,22yrs and 4m
+13,Robbery,Robbery,13yr and 9m
+14,Robbery,Robbery,1yrs and 11m
+15,Robbery,Robbery,3yrs and 3m
+16,Robbery,Robbery,30yrs and 8m
+17,Robbery,Robbery,2yr and 7m
+18,Robbery,Robbery,1yr and 2m
+19,Robbery,Robbery,1m
+20,Robbery,Robbery,20yrs
+21,Land Dispute,Land Dispute,13 yrs and 1m
+22,Land Dispute,Land Dispute,3m
+23,Land Dispute,Land Dispute,23yrs and 8m
+24,Land Dispute,Land Dispute,15yrs and 1m
+25,Land Dispute,Land Dispute,2yrs and 3m
+26,Land Dispute,Land Dispute,2yrs and 3m
+27,Land Dispute,Land Dispute,7yrs and 9m
+28,Land Dispute,Land Dispute,11yrs and 2 m
+29,Land Dispute,Land Dispute,11yrs and 1m
+30,Land Dispute,Land Dispute,11 yrs and 5m
+31,Corruption,Corruption,4yrs and 9m
+32,Corruption,Corruption,12yrs and 7m
+33,Corruption,Corruption,4yrs and 9m
+34,Corruption,Corruption,12yrs and 1m
+35,Corruption,Corruption,4yrs and 4m
+36,Corruption,Corruption,5yrs and 9m
+37,Corruption,Corruption,6yrs and 4m
+38,Corruption,Corruption,11m
+39,Corruption,Corruption,4m
+40,Corruption,Corruption,8yrs and 10m
+41,Murder and Robbery,Murder,5yrs and 6m
+42,Murder and Robbery,Murder,2yrs
+43,Murder and Robbery,Murder,6yrs and 10m
+44,Murder and Robbery,Murder,5yrs and 3m
+45,Murder and Robbery,Murder,21 yrs and 2m
+46,Murder and Land,Murder,1yr and 1m
+47,Murder and Land,Murder,1 yr
+48,Murder and Land,Murder, 1 yr 2 months
+49,Murder and Land,Murder, 5 year 8 m
+50,Murder and Land,Murder, 11 y
+51,Land and Corruption,Land Dispute, 7 y
+52,Land and Corruption,Land Dispute,1 y
+53,Land and Corruption,Land Dispute,1 y
+54,Land and Corruption,Land Dispute,2 y
+55,Land and Corruption,Land Dispute,7 y
+56,Robbery and Land,Robbery,2 y
+57,Robbery and Land,Robbery,1 y
+58,Robbery and Land,Robbery,3 y
+59,Robbery and Land,Robbery,1 y
+60,Robbery and Land,Robbery,4 y
+61,Robbery and Corruption,Robbery,2 y
+62,Robbery and Corruption,Robbery, 8 m
+63,Robbery and Corruption,Robbery,3 y
+64,Robbery and Corruption,Robbery,2 y
+65,Robbery and Corruption,Robbery,1 y
+66,Corruption,Corruption,2
+67,Corruption,Corruption,1y 5m
+68,Corruption,Corruption,
+69,Corruption,Corruption,
+70,Corruption,Corruption,
+71,Corruption,Corruption,
+72,Corruption,Corruption,
+73,Land Dispute,Land Dispute,
+74,Land Dispute,Land Dispute,
+75,Land Dispute,Land Dispute,
+76,Land Dispute,Land Dispute,
+77,Land Dispute,Land Dispute,
+78,Land Dispute,Land Dispute,
+79,Land Dispute,Land Dispute,
+80,Land Dispute,Land Dispute,
+81,Land Dispute,Land Dispute,
+82,Land Dispute,Land Dispute,
+83,Murder,Murder,
+84,Murder,Murder,
+85,Murder,Murder,
+86,Murder,Murder,
+87,Murder,Murder,
+88,Murder,Murder,
+89,Murder,Murder,7 years
+90,Murder,Murder,3 years
+91,Murder,Murder,2 years 2 months
+92,Murder,Murder,7 years
+93,Robbery,Robbery,

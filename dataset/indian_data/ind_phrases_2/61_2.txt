@@ -1,0 +1,11 @@
+prevention of corruption act 0 21 4 4
+applicant at any point of time demanded bribe 1 4 1 8
+alleged conversation between the applicant and complainant 1 6 4 7
+releasing one of the accused 1 12 2 5
+involved in theft case 1 12 7 4
+he was working as assistant police inspector 1 14 1 7
+extended threats to complainant 2 3 0 4
+demanded bribe of Rs.5000 2 4 5 4
+attempted to obtain said amount 2 7 2 5
+contacted anti corruption bureau office 2 11 5 5
+requested for grant of one day time 2 19 2 7

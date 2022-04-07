@@ -1,0 +1,27 @@
+prevention of corruption act 0 26 15 4 
+raid/trap in the matter 1 4 2 4
+anti corruption bureau 1 9 11 3
+cogent and convincing evidence 1 22 10 4
+sought advance from his provident fund amount 1 23 10 7
+already performed on scheduled date 1 25 12 5
+incorrectly and falsely represented 1 26 9 4
+inconsistent and false conduct 1 28 10 4
+attempt to victimize the officers 1 29 7 5
+complaint to central
+bureau of investigation 1 31 13 6
+demanded Rs. 2,000 from him as bribe 1 33 9 7
+for sanctioning loan of Rs. 40,000 1 33 16 5
+fabrication of documents is apparent 2 2 3 5
+recovery memo of currency note 2 7 4 5
+witness first met accused in his office 2 8 12 7
+visited flat (residence) of accused 2 16 10 5
+amount of Rs. 300 recovered allegedly from shirt pocket 2 25 14 9
+kept in one envelope 2 26 8 4
+documents allegedly seized from table of accused 3 18 13 7
+by way of illegal gratification 3 29 9 5
+recovery thereof without proving demand 3 30 0 5
+those notes had phenolphthalein powder 4 22 12 5
+recovery of tainted money from the accused 5 30 5 7
+accused person is apprehended red handed 6 7 15 6
+seizure of said amount 6 21 14 4
+public servant accepts any undue advantage 9 3 4 6

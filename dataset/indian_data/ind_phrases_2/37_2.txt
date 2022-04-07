@@ -1,0 +1,25 @@
+prevention of corruption act 0 19 7 4
+held various posts in the railway service 0 22 13 7
+tendered his resignation 0 24 7 3
+clearance from the vigilance was necessary 0 25 11 6
+special police enquiry case was pending 0 28 9 6
+got associated with a company 1 12 6 5
+company made huge profits 1 13 6 4
+petitioner earned good commission 1 13 12 4
+possession of assets 1 18 2 3
+disproportionate to the known source of income of a public servant 1 18 5 11
+indulged in various corrupt practices 1 23 8 5
+obtained illegal gratification 1 25 4 3
+extended undue favour in favour of some parties 1 25 8 8
+in the wake of investigation conducted by the vigilance branch 1 29 4 10
+on receipt of a complaint 1 30 5 5
+purchased a flat 1 32 4 3
+did not intimate the source of finance for the purchase 1 32 17 10
+held huge amount of equity shares 1 37 1 6
+invested his ill-gotten money 2 0 2 4
+incurred huge expenses 2 1 6 3
+declared a very nominal income 2 6 5 5
+taken as loan 3 9 16 3
+deed of sale of the said flat 3 14 14 7
+on the basis of source information 4 10 0 6
+amassing wealth by misusing one's official position 7 25 7 7

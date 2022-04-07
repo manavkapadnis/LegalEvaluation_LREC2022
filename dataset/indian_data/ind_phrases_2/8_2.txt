@@ -1,0 +1,23 @@
+armed with a double barell gun 0 21 0 6
+armed with rifle 0 25 1 3
+armed with lathi 0 25 11 3
+pulled down 0 26 3 2
+started assaulting 0 26 11 2
+kill in a hurry 0 27 11 4
+opened fire 0 28 5 2
+produced 15 witnesses 1 0 6 3
+accused running away from the spot 1 2 10 6
+body was sent for post mortem 1 7 8 6
+convicted for the offence 1 12 6 4
+bullet injury 1 31 6 2
+skull being crushed 1 40 11 3
+bones being fractured 2 0 0 3
+real culprit 2 31 12 2
+testimony of two eyewitnesses 3 15 0 4
+left elbow has bruise injury 4 12 11 5
+back portion of the head heavily damaged 4 16 12 7
+eye has blackened 4 17 10 3
+blood is oozing from the mouth 4 18 3 6
+time elapsed since death 5 6 1 4
+motive proved 5 24 12 2
+medical evidence 6 27 16 2

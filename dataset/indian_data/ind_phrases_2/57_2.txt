@@ -1,0 +1,10 @@
+activity of illegal quarrying of stone 0 22 0 6
+government land 0 22 11 2
+unauthorized quarries be also closed 0 26 0 5
+involved in the offending excavation activity 0 31 6 6
+proposed to be recovered 0 32 5 4
+illegally operating were sealed 1 0 5 4
+recovered as arrears of land revenue 1 4 13 6
+removed from the site and auctioned 1 11 12 6
+order attaching the movable and immovable properties 1 17 1 7
+trespass and theft of government property 1 21 4 6

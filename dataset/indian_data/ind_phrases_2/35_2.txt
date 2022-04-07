@@ -1,0 +1,18 @@
+sub-assistant engineer 0 17 7 2
+howrah municipal corporation 0 17 11 3
+he was an employee 0 18 2 4
+pursuant to a criminal proceedings 0 19 2 5
+anti-corruption bureau 0 20 0 2
+petitioner was in custody 0 21 0 4
+came to be suspended from service 0 21 11 6
+without any disciplinary proceedings 0 23 3 4
+prevention of corruption act 0 24 13 4
+he was caught red-handed 0 25 4 4
+taking a bribe of Rs.1 lakh 0 25 8 6
+from a promoter 0 25 14 3
+raids being conducted at his residence 0 26 1 6
+sum of Rs.20 crores was found in cash 0 26 8 8
+other articles were also seized 0 26 17 5
+act or omission relating to his service 1 4 6 7
+possession of assets and money 1 13 11 5
+beyond known sources of income 1 14 1 5

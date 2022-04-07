@@ -1,0 +1,15 @@
+opened a shop 0 23 7 3
+employed to look after the shop and machine 0 24 9 8
+boring machine was found missing 0 25 15 5
+these persons had stolen 0 26 11 4
+during night 0 27 2 2
+recovery of the alleged stolen 1 16 2 5
+dispute amongst them 1 18 1 3
+nor these persons were traceable 1 24 11 5
+case of contract 1 27 0 3
+applicant was carrying boring machine 1 29 1 5
+going towards 1 29 7 2
+considered a theft 1 34 15 3
+from the possession of his master or employer 2 0 1 8
+under section 381 IPC 2 14 14 4
+working as servant in the shop 2 16 13 6

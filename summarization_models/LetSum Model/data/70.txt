@@ -1,0 +1,948 @@
+for educational use only
+REPORTABLE
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 6270 of 2012
+
+Pravin Kumar
+
+..... Appellant(s)
+VERSUS
+
+Union of India and Ors.
+
+.....Respondent(s)
+JUDGMENT
+
+Surya Kant, J:
+The present civil appeal, which has been heard over video­
+conferencing, is directed against the order dated 05.05.2009 passed by
+a Division Bench of the High Court of Bombay in WP No. 1001/2001,
+whereby appellant’s plea for quashing disciplinary proceedings and
+setting­aside a dismissal order on charges of corruption and extra­
+constitutional conduct while employed as a paramilitary officer, was
+rejected.
+
+FACTUAL MATRIX
+2.
+
+Signature Not Verified
+
+The appellant joined the Central Industrial Security Force
+
+Digitally signed by
+SATISH KUMAR YADAV
+Date: 2020.09.10
+18:35:29 IST
+Reason:
+
+(“CISF”) in January, 1995 as a Sub­Inspector. After completing
+requisite training in Hyderabad, he was allocated to Mumbai Office of
+Page | 1
+
+the Western Zone and posted at the local unit of Bharat Petroleum
+Corporation Ltd (“BPCL”) in March, 1996. Although he was initially
+deputed to perform shift duty, but since July, 1997 he was deployed
+in the Crime and Intelligence Wing. As evidenced by an office order
+dated 08.05.1998, the appellant was specifically entrusted with
+conducting surprise searches of personnel and taking strict action
+against anyone indulging in corruption.
+3.
+
+On 28.02.1999 at around 6PM, Constable Ram Avtar Sharma
+
+(CW­1; hereinafter “Sharma”) was commuting in a CISF bus near the
+BPCL
+
+compound
+
+when
+
+Inspector
+
+Hiralal
+
+Chaudhary
+
+(PW­1;
+
+hereinafter, “Chaudhary”) noticed a large bundle of high­denomination
+notes in Sharma’s pocket. Suspicious, Chaudhary got the bus turned
+back towards the BPCL compound, and forcibly made Sharma
+deboard near the North­gate. Amidst witnesses, Chaudhary searched
+Sharma’s person, during which a total sum of Rs 10,780 in the form of
+100 notes of Rs 100 and the rest in smaller denominations was
+recovered. No explanation for the large sum of unaccounted cash was
+forthcoming from Sharma, except for a plea for mercy, post which the
+amount was seized and the incident recorded in the General Diary
+(“GD”) kept at the North­gate of the BPCL compound.
+
+Page | 2
+
+4.
+
+Later, it was found that a conflicting GD entry had been made at
+
+the Main­gate of the BPCL compound a little earlier at around 6:05PM,
+noting how an amount of Rs 9,000 had been handed over by dog­
+handler Constable KK Sharma (PW­2) on behalf of another official, as
+personal loan to Sharma (CW­1). It was discovered over the course of
+investigation that this entry was false and had been registered at the
+instance of the present appellant who made numerous phone calls
+between 6:30 and 7PM to ASI Surjan Singh (PW­5) who was stationed
+at the Main­gate and was in­charge of the other GD register.
+5.
+
+The following morning, KK Sharma (PW­2) who was projected to
+
+have delivered the cash to Sharma, was pressurised by the appellant
+to falsely support his alternate ‘loan’ theory by deposing that he
+indeed had delivered the impounded sum of money.
+6.
+
+An FIR was thus registered by the respondent­authorities with
+
+the regional Anti­Corruption Branch of the Central Bureau of
+Investigation (“CBI”) on 06.03.1999 under various provisions of the
+Indian Penal Code, 1860 and the Prevention of Corruption Act, 1988.
+Simultaneously, an enquiry under Rule 34 of CISF Rules, 1969, with
+Assistant Commandant PB Patil as the enquiry officer, was also
+initiated and the appellant was placed under suspension vide order
+dated 31.05.1999.
+
+Page | 3
+
+a. Chargesheet
+
+7.
+
+The chargesheet contained three charges against the appellant,
+
+first, gross misconduct and indiscipline by virtue of ordering of a false
+GD Entry (No. 257, on 6:05PM at 28.02.1999); second, becoming an
+extra­constitutional authority by issuing unlawful orders to Constable
+KK Sharma to give false statement to substantiate the aforementioned
+fake GD entry; and third, corruption for illegally collecting bribes from
+contractors of BPCL through his subordinates. All these charges were
+contested by the appellant, who sought and was provided a detailed
+list of evidence and documents.
+b. Investigation and Enquiry Report
+
+8.
+
+The
+
+enquiry
+
+officer
+
+submitted
+
+a
+
+self­speaking
+
+report
+
+on
+
+17.09.1999, which contained written statements and depositions of
+six witnesses who were substantiating the charges, as well as evidence
+led by the appellant in the form of five defence witnesses. Inspector
+Hiralal Chaudhary (PW­1) testified to the search of Sharma, the
+seizure of a sum of Rs 10,780 from his person, and the lack of any
+explanation by him on the spot regarding source of the suspicious
+sum. Head Constable KK Sharma (PW­2), who as per the appellant’s
+defence had handed over the seized amount as loan amount to
+Sharma, negated this alternate version and instead implicated the
+appellant by mentioning that not only did he not give any money to
+Page | 4
+
+anyone, but that he had instead been threatened by the appellant into
+giving a false statement. Head Constable RK Sharma (PW­3) claimed to
+have witnessed the search and seizure, and denied any talk of a loan
+during such event. ASI Karan Singh (PW­4) deposed that two empty
+garbage trucks had entered the BPCL premises earlier in the
+afternoon. ASI Surjan Singh (PW­5) testified that at around 6:30PM
+when he was on duty at the BPCL Main­gate, he received a call from
+the appellant intimidating him into registering a false GD Entry with
+earlier time of 6:05PM to substantiate a fictitious loan transaction
+with the stated objective of protecting Sharma (CW­1).
+9.
+
+Additionally, the enquiry officer examined Constable Ram Avtar
+
+Sharma (CW­1) who testified that at around 2PM on 28.02.1999 he
+received a bundle of notes totalling Rs 10,000 on behalf of the
+appellant from one DK Parmar, who was contracted by BPCL for the
+job of lifting garbage/waste. These notes were in his possession, in
+addition to his personal cash of Rs 780, when he was caught around
+6:15PM by Chaudhary (PW­1) while he was travelling in the CISF Bus.
+He admitted that he had falsely claimed that the money had been
+given to him by KK Sharma (PW­2), and in response to a question
+disclosed that bribes were illegally collected from BPCL’s contractors
+at the rate of Rs 20 per vehicle entering the plant and Rs 5 per vehicle
+exiting. The seized sum of money, particularly, was to be handed over
+
+Page | 5
+
+to the appellant for facilitating theft of ‘iron scrap’ and ‘brass’ which
+was smuggled out of the compound in the middle of the garbage. CW­
+1, later on though, retracted and claimed that the record reflected
+something other than what he had stated, and that his signatures
+ought not to be relied upon as he had not read the document.
+10.
+
+The appellant in his defence evidence examined Constable MN
+
+Dhanwat (DW­1) who deposed that although he was posted at North­
+gate on the date of the incident, he had left for personal work during
+duty hours with the permission of the appellant. Constable Jaimal
+Singh (DW­2) testified that he had witnessed the search of Sharma
+and recording of the GD Entry by Chaudhary when he reached the
+North­gate at around 6:40PM. Further, he claimed that Sharma was
+repeatedly trying to get in touch with the appellant, but could only get
+through at around 7PM and then informed him that he was caught
+carrying his own money. ASI SP Mishra (DW­3) who was on duty at
+the CISF Control room in Vashi stated that in his presence no
+message had been conveyed to the appellant regarding the incident.
+PK Nashkar (DW­4) states that during his duty at the ‘Quarter Guard’
+in the Vashi Complex at 7PM, he was directed by ASI SP Mishra (DW­
+3) to convey a message to the appellant that there was a phone call for
+him from Jaimal Singh (DW­2). Finally, Pravin Dhanji Parmar (DW­5),
+who had been performing house­keeping work at the BPCL refinery for
+
+Page | 6
+
+the past twenty years on behalf of contractor DK Parmar & Co, stated
+that he did not hand over any money to Sharma. In addition, the
+enquiry officer perused the relevant GD entries and other documents
+on record.
+11.
+
+Based on these numerous evidences and after according the
+
+appellant an opportunity to cross­examine all the witnesses as well as
+leading his own substantive arguments, the enquiry officer through
+report dated 17.09.1999 held the appellant guilty under each of the
+three charges. The enquiry officer found as a matter of fact that the
+GD No. 257, entered at 6:05PM on 28.02.1999, was a false entry made
+at the instance of the appellant by Surjan Singh (PW­5), so that an
+alternate version could be crafted in which Sharma (CW­1) had
+allegedly received the seized money as loan. Qua the second charge, it
+stood established from the version of KK Sharma (PW­2) that he had
+not advanced any loan and that he was approached by the appellant
+to give a false statement to substantiate the GD No. 257. Finally, upon
+a holistic interpretation of all evidence, that is, falsification of GD,
+threatening of KK Sharma (PW­2), as well as indications of wrongdoing
+from the statements of other witnesses like DW­1; the enquiry officer
+concluded that illegal sums were being collected by the appellant from
+BPCL’s contractors through his subordinate officers and therefore, the
+third charge of corruption too had been proved.
+
+Page | 7
+
+c. Proceedings before the Disciplinary Authority
+
+12.
+
+This
+
+voluminous
+
+enquiry
+
+report
+
+was
+
+placed
+
+before
+
+the
+
+disciplinary authority, which gave the appellant both a copy of the
+report as well as an opportunity to respond to it. Detailed rebuttals
+put forth by the appellant through his written submission dated
+14.10.1999 were examined at length by the disciplinary authority.
+Preliminary objections of the enquiry officer being biased and of being
+pre­disposed to convict the appellant, were rejected by the disciplinary
+authority with cogent reasons. It was noted that not only had proper
+opportunity of cross­examining witnesses and of availing assistance
+been accorded to the appellant, but that sufficient opportunities of
+seeking explanations, clarifications and records of testimonies and
+documents had in fact also been availed of by him.
+13.
+
+The disciplinary authority noted that no material contradictions
+
+could be pointed out in the witnesses’ testimonies, and no compelling
+alternate evidence had been produced. Keeping in mind the nature of
+the allegations which entailed surreptitious corruption amongst
+members of the paramilitary, the disciplinary authority observed that
+it was unlikely that there would be independent witnesses to many
+incidents like the charge of intimidating KK Sharma (PW­2) to give
+false testimony, or of collecting bribe from BPCL’s contractors.
+14.
+
+The disciplinary authority noticed that it was an undisputed fact
+Page | 8
+
+that a sum of Rs 10,780 had been recovered from Sharma (CW­1),
+which was far in excess of the maximum permissible amount of Rs 10.
+The testimonies of different officials revealed the appellant’s modus
+operandi of collecting illegal monies through a network of subordinate
+officers; and more crucially, his attempts at supressing witnesses and
+fabricating evidence when caught. The disciplinary authority noted
+that the enquiry officer had followed the prescribed procedure and no
+challenge had been made earlier to his impartiality and no request to
+change the enquiry officer was ever made. Therefore, no malice or bias
+could even be suggested at this stage of the disciplinary proceedings.
+Similarly, the appellant’s attempt to implicate other officials was held
+to be irrelevant, as the present enquiry was limited only to the
+appellant’s conduct.
+15.
+
+Thus, considering the serious nature of the misconduct and the
+
+rank and duty bestowed upon the appellant, and the multiplicity of
+the charges which called into question both the personal integrity of
+the delinquent officer and the collective image of the force, the
+Disciplinary Authority passed the order dated 20.11.1999, imposing
+exemplary punishment of dismissal from service under Rule 29(a) read
+with Rule 31(a) ­ Schedule II of CISF Rules, 1969.
+
+Page | 9
+
+d. Decision of the Appellate Authority
+
+16.
+
+The appellant preferred departmental appeal against the order of
+
+his dismissal from service before the Deputy Inspector General of the
+CISF Western Zone.
+
+In addition to highlighting contradictions in
+
+testimonies and re­interpreting the evidence on record, the appellant
+also raised a new defence that the entire proceedings were at the
+behest of a particular superior officer.
+17.
+
+The appellate authority went into each and every contention of
+
+the appellant and after re­appreciating the evidence on record, it
+dismissed the appeal vide order dated 12.07.2000, concluding that:
+“Further I find that there is no material irregularity or miscarriage of
+justice in the departmental enquiry proceedings. After considering
+the gravity of proven misconduct, the petitioner is not found fit for
+retention in an armed force of the Union of India like CISF. The
+contentions made in his appeal petitions are totally devoid of merits
+both in fact and in law. The punishment imposed by the disciplinary
+authority is not excessive in view of proven misconduct. As such I do
+not find any reason to interfere with the orders passed by the
+disciplinary authority and do hereby reject the appeal petition being
+devoid merits.”
+e. Writ before the High Court
+
+18.
+
+A further challenge was laid to the orders passed by the
+
+Disciplinary and Appellate authorities by way of a writ petition under
+Article 226 before the High Court of Bombay. The appellant sought in
+
+Page | 10
+
+sum and substance, re­appraisal of the evidence on record, claiming
+that it was qualitatively insufficient to hold him guilty of the charges
+levelled against him. Additionally, the appellant raised a new ground
+of non­compliance with Rule 34(10)(ii)(b) of CISF Rules, 1969 which
+specified serving of a second show cause notice and opportunity of
+hearing regarding the proposed penalty. The appellant fairly submitted
+before the High Court that it was not his case that the penalty
+imposed against him was disproportionate, if the charges against him
+were held to be proved.
+19.
+
+The High Court, through the order­under­challenge, conducted a
+
+detailed re­examination of the facts and material­on­record, expanding
+the scope of judicial review under Article 226 and concluded that there
+existed ample evidence to establish the appellant’s involvement in the
+organised collection of illegal monies from BPCL’s contractors and his
+role in fabricating official records and intimidating subordinate officers
+to falsely testify to support his alternate version.
+20.
+
+The High Court categorically held that the domestic enquiry
+
+followed all procedures and was in conformity with principles of
+natural justice and the appellant had been accorded numerous
+opportunities of putting forth his version of events. The CISF Rule
+sought to be relied upon by the appellant, was found to have been
+amended in 1981, therefore, leaving no requirement for a separate
+Page | 11
+
+show cause notice at the stage of penalty. The writ petition was
+accordingly dismissed on 05.05.2009.
+
+CONTENTIONS
+21.
+
+OF
+
+PARTIES
+
+The instant appeal being the last resort, learned senior counsel
+
+for the appellant, once more, took us through the enquiry­record and
+highlighted how the main witness (CW­1) had retracted his statement,
+and
+
+how
+
+there
+
+was
+
+no
+
+corroboration
+
+between
+
+witnesses
+
+and
+
+documents. The conduct of the enquiry officer was called into
+question, contending that his decision to put questions to witnesses
+was unfair. Acting as both the judge and prosecutor, the enquiry
+officer was alleged to have vitiated the entirety of the proceedings. Till
+the last minute, the appellant vehemently stuck to his alternate
+version that the recovered sum of Rs 10,780 was nothing but a loan
+extended between two officials in a private capacity, and that the false
+charges were levelled on him with oblique motives at the instance of
+certain superiors. Finally, the appellant sought leniency and urged
+that given another 21 years of remaining service, imposition of the
+severest
+
+punishment
+
+of
+
+dismissal
+
+from
+
+service
+
+was
+
+highly
+
+disproportionate which ought to shock the conscience of this Court.
+22.
+
+These contentions have dexterously been countered by the
+
+learned counsel for the respondents, who highlights through specific
+reference to the impugned order that retraction of CW­1’s statement
+Page | 12
+
+had been noted by all prior authorities and that no significant reliance
+had been placed on it while holding the appellant guilty. Adequate
+opportunities were granted and had been availed by him. Attention
+was drawn to the fact that the present proceedings constituted the
+fifth venue where the appellant was pleading his case, with the first
+four and the CBI having found his guilt concurrently.
+23.
+
+The deliberate and planned manner of the falsifications, and the
+
+blatant threats made to subordinate officials was highlighted by the
+respondents, and the loan theory propounded by the appellant was
+shown as having been recurrently agitated and discarded by all the
+previous forums. Given the concurrent findings of the enquiry officer,
+disciplinary authority, appellate authority, and the High Court; as well
+as the detailed evaluation and reasoned order passed by each, it was
+submitted that there remained little scope of re­appreciation or further
+adjudication. The ratio of Shashi Prasad v. CISF1 was distilled to
+drive home the argument that departmental enquiries don’t stand on
+the same pedestal as criminal proceedings. Acquittal in one would not
+pre­judge the other owing to a difference in standards of proof. It was
+claimed that there could be no re­appreciation of evidence as per Govt
+of
+
+Andhra
+
+Pradesh
+
+1
+
+2019 7 SCC 797.
+
+2
+
+2006 2 SCC 373.
+
+v.
+
+Mohd
+
+Nasrulla
+
+Khan 2,
+
+and
+
+that
+
+Page | 13
+
+Constitutional Courts ought not to act as appellate authorities against
+disciplinary proceedings of government employees. Finally, given the
+delicate nature of employment in paramilitary forces and breach of the
+high trust reposed in him by society, the strict punishment of
+dismissal of the appellant from service was justified.
+ANALYSIS
+24.
+
+At the outset, it may be noted that the appellant has chosen to
+
+raise some new grounds before this Court, despite those issues
+involving questions of fact. Nevertheless, a few pertinent questions of
+service jurisprudence do arise in this appeal, which we deem
+appropriate to answer.
+I.
+25.
+
+Scope of Judicial Review in Service Matters
+Learned counsel for the appellant spent considerable time taking
+
+us through the various evidences­on­record with the intention of
+highlighting lacunas and contradictions. We feel that such an exercise
+was in vain, as the threshold of interference in the present
+proceedings is quite high. The power of judicial review discharged by
+Constitutional Courts under Article 226 or 32, or when sitting in
+appeal under Article 136, is distinct from the appellate power
+exercised by a departmental appellate authority. It would be gainsaid
+that judicial review is an evaluation of the decision­making process,
+
+Page | 14
+
+and not the merits of the decision itself. Judicial Review seeks to
+ensure fairness in treatment and not fairness of conclusion. It ought
+to be used to correct manifest errors of law or procedure, which might
+result
+
+in
+
+significant
+
+injustice;
+
+or
+
+in
+
+case
+
+of
+
+bias
+
+or
+
+gross
+
+unreasonableness of outcome.3
+26.
+
+These principles are succinctly elucidated by a three­judge
+
+Bench of this Court in BC Chaturvedi v. Union of India4 in the
+following extract:
+“12. Judicial review is not an appeal from a decision but a review of
+the manner in which the decision is made. Power of judicial review
+is meant to ensure that the individual receives fair treatment and
+not to ensure that the conclusion which the authority reaches is
+necessarily correct in the eye of the court. When an inquiry is
+conducted on charges of misconduct by a public servant, the
+Court/Tribunal is concerned to determine whether the inquiry was
+held by a competent officer or whether rules of natural justice are
+complied with. Whether the findings or conclusions are based on
+some evidence, the authority entrusted with the power to hold
+inquiry has jurisdiction, power and authority to reach a finding of
+fact or conclusion. But that finding must be based on some evidence.
+Neither the technical rules of Evidence Act nor of proof of fact or
+evidence as defined therein, apply to disciplinary proceeding. When
+the authority accepts that evidence and conclusion receives support
+therefrom, the disciplinary authority is entitled to hold that the
+delinquent officer is guilty of the charge. The Court/Tribunal in its
+3
+
+Government of Andhra Pradesh v. Mohd Nasrullah Khan, (2006) 2 SCC 373, ¶ 11.
+
+4
+
+(1995) 6 SCC 749 ¶ 12.
+
+Page | 15
+
+power of judicial review does not act as appellate authority to
+reappreciate the evidence and to arrive at its own independent
+findings on the evidence. The Court/Tribunal may interfere where
+the authority held the proceedings against the delinquent officer in a
+manner inconsistent with the rules of natural justice or in violation of
+statutory rules prescribing the mode of inquiry or where the
+conclusion or finding reached by the disciplinary authority is based
+on no evidence. If the conclusion or finding be such as no reasonable
+person would have ever reached, the Court/Tribunal may interfere
+with the conclusion or the finding, and mould the relief so as to
+make it appropriate to the facts of each case.
+13. The disciplinary authority is the sole judge of facts. Where
+appeal is presented, the appellate authority has coextensive power
+to reappreciate the evidence or the nature of punishment. In a
+disciplinary inquiry, the strict proof of legal evidence and findings on
+that evidence are not relevant. Adequacy of evidence or reliability of
+evidence
+
+cannot
+
+be
+
+permitted
+
+to
+
+be
+
+canvassed
+
+before
+
+the
+
+Court/Tribunal. In Union of India v. H.C. Goel [(1964) 4 SCR 718 :
+AIR 1964 SC 364 : (1964) 1 LLJ 38] this Court held at p. 728 that if
+the conclusion, upon consideration of the evidence reached by the
+disciplinary authority, is perverse or suffers from patent error on the
+face of the record or based on no evidence at all, a writ of certiorari
+could be issued.”
+
+27.
+
+These parameters have been consistently reiterated by this Court
+
+in a catena of decisions, including:
+(i)
+(ii)
+(iii)
+
+State of Tamil Nadu v. S Subramaniam, (1996) 7 SCC 509.
+Lalit Popli v. Canara Bank, (2003) 3 SCC 583.
+Himachal Pradesh State Electricity Board Ltd v. Mahesh
+Dahiya, (2017) 1 SCC 768.
+
+Page | 16
+
+28.
+
+It is thus well settled that the Constitutional Courts while
+
+exercising their powers of judicial review would not assume the role of
+an appellate authority. Their jurisdiction is circumscribed by limits of
+correcting errors of law, procedural errors leading to manifest injustice
+or violation of principles of natural justice. Put differently, judicial
+review is not analogous to venturing into the merits of a case like an
+appellate authority.
+29.
+
+The High Court was thus rightly concerned more about the
+
+competence of the enquiry officer and adherence to natural justice,
+rather than verifying the appellant’s guilt through documents and
+statements. It clearly noted that evidence was led, cross­examination
+was conducted and opportunities of addressing arguments, raising
+objections, and filing appeal were granted. The conclusion obtained
+was based upon these very evidences and was detailed and well­
+reasoned. Furthermore, the High Court didn’t restrict the scope of
+judicial review, rather adopted a liberal approach, and delved further
+to come to its own independent conclusion of guilt. Similarly, we have
+no doubt in our minds that the appellate authority had carefully dealt
+with each plea raised by the appellant in his appeal and had given
+detailed responses to all the contentions to satisfy the appellant’s
+mind. The disciplinary authority too was impeccable and no infirmity
+can be found in the report of the enquiry officer either.
+
+Page | 17
+
+30.
+
+Even in general parlance, where an appellate or reviewing
+
+Court/authority comes to a different conclusion, ordinarily the
+decision under appeal ought not to be disturbed in so far as it remains
+plausible or is not found ailing with perversity. The present case is
+neither one where there is no evidence, nor is it one where we can
+arrive at a different conclusion than the disciplinary authority,
+especially for the reasons stated hereunder.
+II.
+31.
+
+Appropriateness of procedure and PNJ
+Significant emphasis has been placed by the appellant on the
+
+fact that the enquiry officer put his own questions to the prosecution
+witness and that he cross­examined the witnesses brought forth by
+the defence. This, it is claimed, amounts to making the prosecutor the
+judge, in violation of the natural justice principle of “nemo judex in sua
+causa”. However, such a plea is misplaced. It must be recognized that,
+under Section 165, Evidence Act, judges have the power to ask any
+question to any witness or party about any fact, in order to discover or
+to obtain proper proof of relevant facts. While strict rules of evidence
+are inapplicable to disciplinary proceedings, enquiry officers often put
+questions to witnesses in such proceedings in order to discover the
+truth. Indeed, it may be necessary to do such direct questioning in
+certain circumstances. Further, learned counsel for the appellant,
+except for making a bald allegation that the enquiry officer has
+Page | 18
+
+questioned the witnesses, did not point to any specific question put by
+the officer that would indicate that he had exceeded his jurisdiction.
+No specific malice or bias has been alleged against the enquiry officer,
+and even during the enquiry no request had been made to seek a
+replacement; thus, evidencing how these objections are nothing but an
+afterthought.
+32.
+
+Rather it appears that the delinquent person received a fair trial,
+
+which can illustratively be determined by analysing whether he
+received an opportunity of adducing evidence, cross­examining
+witnesses and whether depositions were recorded in his presence. 5
+The record clearly elucidates that all these essentials had been duly
+observed in the present proceedings. Opportunity to seek assistance of
+another officer was accorded, right of making representation was
+granted before each authority, multiple opportunities were granted to
+lead evidence, cross­examine witnesses, and raise objections. The
+appellant exercised most of these options, though some were given up
+despite reminders. Minor delays on part of the appellant were ignored
+and each concern of his had been addressed through detailed reasons.
+III.
+33.
+
+Effect of criminal enquiry on disciplinary proceedings
+
+The
+
+incident
+
+of
+
+28.02.1999
+
+raised
+
+serious
+
+questions
+
+of
+
+criminality under the Indian Penal Code and the Prevention of
+5
+
+Union of India v. T.R. Varma, 1958 SCR 499 ¶ 10.
+
+Page | 19
+
+Corruption Act, as well as of violation of Service Regulations and
+administrative misconduct. Thus, in addition to appointment of
+enquiry officer, the authorities also registered a criminal complaint
+with the CBI. After investigation, the CBI though did not find adequate
+material to launch criminal prosecution against the appellant but
+through
+
+its
+
+self­speaking
+
+report
+
+dated
+
+07.03.2000,
+
+the
+
+CBI
+
+recommended major disciplinary action against the appellant and a
+few others.
+34.
+
+It is beyond debate that criminal proceedings are distinct from
+
+civil proceedings. It is both possible and common in disciplinary
+matters
+
+to
+
+establish
+
+charges
+
+preponderance of probabilities
+
+against
+and
+
+a
+
+delinquent
+
+official
+
+by
+
+consequently terminate
+
+his
+
+services. But the same set of evidence may not be sufficient to take
+away his liberty under our criminal law jurisprudence. 6 Such
+distinction between standards of proof amongst civil and criminal
+litigation is deliberate, given the differences in stakes, the power
+imbalance between the parties and the social costs of an erroneous
+decision. Thus, in a disciplinary enquiry, strict rules of evidence and
+procedure of a criminal trial are inapplicable, like say, statements
+made before enquiry officers can be relied upon in certain instances. 7
+
+6
+
+Karnataka SRTC v. MG Vittal Rao, (2012) 1 SCC 442, ¶ 11.
+
+7
+
+Ajit Kumar Nag v. Indian Oil Corp Ltd (2005) 7 SCC 764, ¶ 11.
+
+Page | 20
+
+35.
+
+Thus, the appellant’s contention that he should be exonerated in
+
+the present proceedings as no criminal chargesheet was filed by the
+CBI after enquiry, is liable to be discarded. 8 The employer always
+retains the right to conduct an independent disciplinary proceeding,
+irrespective of the outcome of a criminal proceeding. Furthermore, the
+CBI report dated 07.03.2000 does recommend major disciplinary
+action against the appellant. The said report also buttresses the
+respondent’s case.
+IV.
+36.
+
+Punishment and plea of leniency
+In our considered opinion, the appellant’s contention that the
+
+punishment of dismissal was disproportionate to the allegation of
+corruption, is without merit. It is a settled legal proposition that the
+Disciplinary Authority has wide discretion in imposing punishment for
+a proved delinquency, subject of course to principles of proportionality
+and fair play. Such requirements emanate from Article 14 itself, which
+prohibits State authorities from treating varying­degrees of misdeeds
+with the same broad stroke. Determination of such proportionality is a
+function of not only the action or intention of the delinquent, but must
+also factor the financial effect and societal implication of such
+misconduct.9 But unlike in criminal cases, in matters of disciplinary
+
+8
+
+BHEL v. M Mani, (2018) 1 SCC 285, ¶ 20­22, 33.
+
+9
+
+Jameel v. State of Uttar Pradesh, (2010) 12 SCC 532, ¶ 14­16.
+
+Page | 21
+
+proceedings Courts only interfere on grounds of proportionality when
+they find that the punishment awarded is inordinate to a high degree,
+or if the conscience of the Court itself is shocked. Thus, whereas
+imposition of major penalty (like dismissal, removal, or reduction in
+rank) would be discriminatory and impermissible for trivial misdeeds;
+but for grave offences there is a need to send a clear message of
+deterrence
+
+to
+
+the
+
+society.
+
+Charges
+
+such
+
+as
+
+corruption,
+
+misappropriation and gross indiscipline are prime examples of the
+latter category, and ought to be dealt with strictly.
+37.
+
+Applying these guidelines to the facts of the case in hand, it is
+
+clear that the punishment of dismissal from service is far from
+disproportionate to the charges of corruption, fabrication and
+intimidation which have unanimously been proven against the
+appellant. Taking any other view would be an anathema to service
+jurisprudence. If we were to hold that systematic corruption and its
+blatant cover­up are inadequate to attract dismissal from service, then
+the purpose behind having such major penalties, which are explicitly
+provided for under Article 311 of the Constitution, would be
+obliterated.
+38.
+
+Still further, the appellant’s actions would most probably have
+
+caused huge consequential losses to BPCL and lowered the reputation
+of the CISF amongst members of the public. Given the paramilitary
+Page | 22
+
+nature of the appellant’s force, a sense of integrity, commitment,
+discipline, and camaraderie is paramount. 10 This expectation is only
+heightened in the case of the appellant given how he was specifically
+tasked with weeding out corruption and conducting surprise raids.
+Once shattered through acts of intimidation, forgery, and corruption;
+only the severest penalty ought to be imposed.
+
+CONCLUSION
+39.
+
+In light of the above discussion, we do not find any merit in this
+
+appeal which is accordingly dismissed.
+…………………………….. J.
+(N.V. RAMANA)
+…………………………… J.
+(S. ABDUL NAZEER)
+…………………………...J.
+(SURYA KANT)
+NEW DELHI
+DATED : 10.09.2020
+
+10
+
+Chandra Kumar Chopra v. Union of India, (2012) 6 SCC 369, ¶ 40.
+
+Page | 23
+
+

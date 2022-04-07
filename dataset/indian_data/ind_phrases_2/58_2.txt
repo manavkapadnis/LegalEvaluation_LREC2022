@@ -1,0 +1,10 @@
+dispute in respect of the sale deed of land survey 0 21 9 10
+filed the suit for cancellation of sale deed 0 22 8 8
+executed in favour of the defendant 0 22 16 6
+harvested corn crop 0 23 13 3
+land possessed by him 0 24 1 4
+committed theft of the crop 0 24 15 5
+charges levelled under Section 379 0 27 3 5
+filed regular civil suit 0 28 4 4
+awarded the compensation 0 30 0 3
+not in possession of the disputed portion of survey 1 8 0 9

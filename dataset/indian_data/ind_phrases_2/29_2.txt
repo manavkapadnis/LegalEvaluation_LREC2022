@@ -1,0 +1,21 @@
+asserting that the land 0 21 4 4
+owned and possessed 0 22 9 3
+suit land came in the hands 0 23 15 6
+ancestral property 0 24 8 2
+having joint shares being coparceners 0 25 3 5
+entitled to a share in the suit property 1 1 11 8
+mutate the land in her name 1 5 9 6
+by virtue of the registered sale deed 1 8 2 7
+executed in their favour 1 8 9 4
+partitioned the suit property 1 10 2 4
+property came to the exclusive share 1 11 0 6
+he had become absolute owner 1 11 9 5
+partitioning the disputed lands 1 19 3 4
+rule of succession 3 17 4 3
+rule of survivorship shall apply 3 17 8 5
+challenge the said transaction 3 35 4 4
+partition of coparcenary property 4 9 5 4
+plaintiff had a mere spes successionis 4 29 2 6
+hindu succession act 4 30 14 3
+basis to dislodge the claim 5 5 3 5
+held the suit property in his individual capacity 5 17 10 8
