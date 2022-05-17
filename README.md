@@ -77,7 +77,7 @@ Additionally, the live demo is deployed on this [Demo Link](https://share.stream
 Note: Please wait for 2 minutes, if the website isn't showing the demo website (since the app is dynamically being hosted in livetime when you click on the link).<br>
 
 ## Poster
-![Poster Image](to be added later)
+![Poster Image](https://github.com/manavkapadnis/LegalEvaluation_LREC2022/blob/main/LREC_poster_image.PNG)
 
 ## Citation
   
