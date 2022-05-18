@@ -84,7 +84,23 @@ Note: Please wait for 2 minutes, if the website isn't showing the demo website (
   If you want to us this code in your work, please add the following citation -
   
   ```
- To be Added Later
+ @misc{https://doi.org/10.48550/arxiv.2205.08478,
+  doi = {10.48550/ARXIV.2205.08478},
+  
+  url = {https://arxiv.org/abs/2205.08478},
+  
+  author = {Mullick, Ankan and Nandy, Abhilash and Kapadnis, Manav Nitin and Patnaik, Sohan and Raghav, R and Kar, Roshni},
+  
+  keywords = {Computation and Language (cs.CL), Information Retrieval (cs.IR), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {An Evaluation Framework for Legal Document Summarization},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
   ```
 ## Corresponding Author Contact Details
 
