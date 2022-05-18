@@ -1,4 +1,4 @@
-# An Evaluation Framework for Legal Document Summarization
+# [An Evaluation Framework for Legal Document Summarization](https://arxiv.org/abs/2205.08478)
 
 This is the official repository of the paper **An Evaluation Framework for Legal Document Summarization** accepted in the Poster and Demo Session in the [13th Edition of its Language Resources and Evaluation Conference (LREC 2022)](https://lrec2022.lrec-conf.org/en/) 
 
@@ -17,7 +17,7 @@ A law practitioner has to go through numerous lengthy legal case proceedings for
 7. Author Contact Details
 
 ## Paper
-Our paper can be found [here](toBeAdded).  
+Our paper can be found [here](https://arxiv.org/abs/2205.08478).  
 <!--Our presentation for the conference can be found [here]()-->
 
 ## Repository Organization
