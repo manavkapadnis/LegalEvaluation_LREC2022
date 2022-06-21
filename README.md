@@ -81,7 +81,7 @@ Note: Please wait for 2 minutes, if the website isn't showing the demo website (
 
 ## Citation
   
-  If you want to us this code in your work, please add the following citation -
+  If you want to use this code in your work, please add the following citation -
   
   ```
  @misc{https://doi.org/10.48550/arxiv.2205.08478,
