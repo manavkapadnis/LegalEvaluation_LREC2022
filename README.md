@@ -73,7 +73,7 @@ Our paper can be found [here](https://arxiv.org/abs/2205.08478).
 ## Demonstration
 
 The code for the demostration can be found in the "demo_app_code/" folder in this repository.<br>
-Additionally, the live demo is deployed on this [Demo Link](https://share.streamlit.io/manavkapadnis/demolegalevaluation_lrec2022/main/app.py)<br>
+Additionally, the live demo is deployed on this [Demo Link](https://manavkapadnis-demolegalevaluation-lrec2022-app-aquc6u.streamlit.app/)<br>
 Note: Please wait for 2 minutes, if the website isn't showing the demo website (since the app is dynamically being hosted in livetime when you click on the link).<br>
 
 ## Poster
